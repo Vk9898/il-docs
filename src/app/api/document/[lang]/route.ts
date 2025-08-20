@@ -3,10 +3,10 @@ import { languages } from '@/lib/languages';
 
 export async function GET(
   request: Request,
-  { params }: { params: { lang: string } }
+  { params }: { params: Promise<{ lang: string }> }
 ) {
   try {
-    const lang = params.lang;
+    const { lang } = await params;
     
     // Find the language configuration
     const language = languages.find(l => l.code === lang);

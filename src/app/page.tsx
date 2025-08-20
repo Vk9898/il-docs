@@ -7,7 +7,7 @@ import { LanguageSelector } from '@/components/language-selector'
 import { Share2, Menu, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { toast } from 'sonner'
-import { languages, defaultLanguage, type Language } from '@/lib/languages'
+import { defaultLanguage, type Language } from '@/lib/languages'
 
 export default function LegalDocumentViewer() {
   // Structured data for SEO
