@@ -95,8 +95,8 @@ export default function PressReleasePage() {
           {/* Document Links Section */}
           <div className="grid gap-4 md:grid-cols-2 mb-8">
             {/* Complaint Document */}
-            <a 
-              href="/kroll_complaint.pdf"
+            <Link 
+              href="/"
               className="flex items-start gap-4 p-4 rounded-lg border bg-card hover:bg-accent transition-colors"
             >
               <div className="p-2 rounded-lg bg-primary/10">
@@ -109,7 +109,7 @@ export default function PressReleasePage() {
                 </p>
                 <p className="text-xs text-primary mt-2">View PDF Document →</p>
               </div>
-            </a>
+            </Link>
 
             {/* Press Release PDF */}
             <a 
