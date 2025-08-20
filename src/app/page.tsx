@@ -3,9 +3,11 @@
 import { EmailSignupModal } from '@/components/email-signup-modal'
 import { PDFViewer } from '@/components/pdf-viewer'
 import { ThemeToggle } from '@/components/theme-toggle'
+import { LanguageSelector } from '@/components/language-selector'
 import { Share2, Menu, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { toast } from 'sonner'
+import { languages, defaultLanguage, type Language } from '@/lib/languages'
 
 export default function LegalDocumentViewer() {
   // Structured data for SEO
@@ -32,6 +34,7 @@ export default function LegalDocumentViewer() {
   const [showSignupModal, setShowSignupModal] = useState(false)
   const [hasSignedUp, setHasSignedUp] = useState(false)
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [selectedLanguage, setSelectedLanguage] = useState<Language>(defaultLanguage)
 
   useEffect(() => {
     const signedUp = localStorage.getItem('ftx_document_access')
@@ -106,6 +109,11 @@ export default function LegalDocumentViewer() {
                 </span>
                 Press Release
               </a>
+              <LanguageSelector 
+                selectedLanguage={selectedLanguage}
+                onLanguageChange={setSelectedLanguage}
+                className="hidden sm:flex"
+              />
               <ThemeToggle />
               <div className="flex items-center gap-1 bg-muted/50 rounded-lg p-1">
                 <button
@@ -176,7 +184,28 @@ export default function LegalDocumentViewer() {
             </h2>
             <p className="text-sm text-muted-foreground mb-4">Class Action Complaint</p>
             
+            {/* Language Selector for Mobile */}
+            <div className="lg:hidden mb-4">
+              <LanguageSelector 
+                selectedLanguage={selectedLanguage}
+                onLanguageChange={setSelectedLanguage}
+                className="w-full"
+              />
+            </div>
+            
             <div className="space-y-3 text-sm">
+              <div>
+                <p className="font-medium text-foreground">Document Language</p>
+                <p className="text-muted-foreground flex items-center gap-2">
+                  <span className="text-lg">{selectedLanguage.flag}</span>
+                  {selectedLanguage.name}
+                  {selectedLanguage.code !== 'en' && (
+                    <span className="text-xs bg-amber-100 dark:bg-amber-900/30 text-amber-900 dark:text-amber-100 px-1.5 py-0.5 rounded">
+                      AI Translation
+                    </span>
+                  )}
+                </p>
+              </div>
               <div>
                 <p className="font-medium text-foreground">Court</p>
                 <p className="text-muted-foreground">U.S. District Court for the Western District of Texas</p>
@@ -226,7 +255,7 @@ export default function LegalDocumentViewer() {
             </div>
           )}
           <PDFViewer
-            url="/api/document"
+            url={selectedLanguage.code === 'en' ? "/api/document" : selectedLanguage.pdfUrl}
             isLocked={isLocked}
             onUnlockRequest={() => setShowSignupModal(true)}
           />
