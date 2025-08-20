@@ -90,9 +90,9 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             exit={{ opacity: 0, scale: 0.95 }}
-            className="flex fixed inset-0 z-50 justify-center items-center p-4"
+            className="flex fixed inset-0 z-50 justify-center items-center p-4 overflow-y-auto"
           >
-            <div className="relative p-6 w-full max-w-md bg-white rounded-2xl shadow-2xl dark:bg-gray-900">
+            <div className="relative p-4 sm:p-6 w-full max-w-md my-auto bg-white rounded-2xl shadow-2xl dark:bg-gray-900 max-h-[90vh] overflow-y-auto">
               {/* Close button */}
               <button
                 type="button"
@@ -104,9 +104,9 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
               </button>
 
               {/* Header */}
-              <div className="mb-6">
-                <h2 className="mb-2 text-2xl font-bold text-center">Access Full Document</h2>
-                <p className="text-center text-gray-600 dark:text-gray-400">
+              <div className="mb-4 sm:mb-6">
+                <h2 className="mb-2 text-xl sm:text-2xl font-bold text-center">Access Full Document</h2>
+                <p className="text-sm text-center text-gray-600 dark:text-gray-400">
                   We promise not to spam you - we&apos;ll only send important updates about this case.
                 </p>
               </div>
@@ -131,49 +131,51 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
                 {/* Checkbox Cards */}
                 <div className="space-y-3">
                   {/* Terms checkbox card */}
-                  <label 
-                    htmlFor="terms" 
-                    className={`block p-3 rounded-lg border-2 cursor-pointer transition-all ${
-                      acceptedTerms 
-                        ? 'border-primary bg-primary/5 dark:bg-primary/10' 
-                        : 'border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600'
-                    }`}
-                  >
-                    <div className="flex items-start gap-3">
-                      <input
-                        type="checkbox"
-                        id="terms"
-                        checked={acceptedTerms}
-                        onChange={e => setAcceptedTerms(e.target.checked)}
-                        className="mt-0.5 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
-                      />
-                      <div className="flex-1">
-                        <span className="text-sm font-medium text-foreground">
-                          I agree to the{' '}
-                          <a
-                            href="https://www.ftxclaims.com/policies/terms"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-primary hover:underline"
-                            onClick={e => e.stopPropagation()}
-                          >
-                            Terms of Service
-                          </a>{' '}
-                          and{' '}
-                          <a
-                            href="https://www.ftxclaims.com/policies/privacy"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-primary hover:underline"
-                            onClick={e => e.stopPropagation()}
-                          >
-                            Privacy Policy
-                          </a>
-                        </span>
-                        <div className="mt-1 text-xs text-muted-foreground">Required</div>
+                  <div className="space-y-2">
+                    <label 
+                      htmlFor="terms" 
+                      className={`block p-3 rounded-lg border-2 cursor-pointer transition-all ${
+                        acceptedTerms 
+                          ? 'border-primary bg-primary/5 dark:bg-primary/10' 
+                          : 'border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600'
+                      }`}
+                    >
+                      <div className="flex items-start gap-3">
+                        <input
+                          type="checkbox"
+                          id="terms"
+                          checked={acceptedTerms}
+                          onChange={e => setAcceptedTerms(e.target.checked)}
+                          className="mt-0.5 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
+                        />
+                        <div className="flex-1">
+                          <span className="text-sm font-medium text-foreground">
+                            I agree to the Terms of Service and Privacy Policy
+                          </span>
+                          <div className="mt-1 text-xs text-muted-foreground">Required</div>
+                        </div>
                       </div>
+                    </label>
+                    <div className="px-3 text-xs">
+                      <a
+                        href="https://www.ftxclaims.com/policies/terms"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-primary hover:underline"
+                      >
+                        Terms of Service
+                      </a>
+                      {' • '}
+                      <a
+                        href="https://www.ftxclaims.com/policies/privacy"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-primary hover:underline"
+                      >
+                        Privacy Policy
+                      </a>
                     </div>
-                  </label>
+                  </div>
 
                   {/* Legal disclaimer checkbox card */}
                   <label 
