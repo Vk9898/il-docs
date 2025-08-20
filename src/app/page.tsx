@@ -92,7 +92,7 @@ export default function LegalDocumentViewer() {
               <img src="/favicon-16.svg" alt="FTXCLAIMS.COM" className="w-8 h-8" />
               <div className="hidden sm:block">
                 <h1 className="text-base font-bold tracking-tight text-foreground">FTXCLAIMS.COM <span className="text-muted-foreground font-normal">|</span> Document Viewer</h1>
-                <p className="text-xs text-muted-foreground">powered by <span className="text-primary font-semibold">InstalLaw</span></p>
+                <p className="text-xs text-muted-foreground">powered by <span className="text-primary font-semibold">InstaLaw</span></p>
               </div>
             </div>
             <div className="flex items-center gap-2">

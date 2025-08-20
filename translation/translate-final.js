@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Gemini API configuration - USING GEMINI 2.5 PRO
-const GEMINI_API_KEY = 'AIzaSyD0lSapaUn4gRgiLn28rYQbJ3FinDBqtXU';
+const GEMINI_API_KEY = 'AIzaSyA3KqC56mYYncSli-7W9--oM7WD8-nrVk4';
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 // All 40 languages

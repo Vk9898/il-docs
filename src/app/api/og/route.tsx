@@ -186,7 +186,7 @@ export async function GET() {
           }}
         >
           <span style={{ fontSize: 16, color: '#6b7280' }}>Powered by</span>
-          <span style={{ fontSize: 16, color: 'white', fontWeight: 600 }}>InstalLaw</span>
+          <span style={{ fontSize: 16, color: 'white', fontWeight: 600 }}>InstaLaw</span>
         </div>
       </div>
     ),
