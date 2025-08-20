@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /admin/
+Disallow: /onboard/
+
+
+# 1. For GPTBot (OpenAI crawler)
+User-agent: GPTBot
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /docs/
+Allow: /news/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://ftxclaims.com/sitemap.xml
+
+
+
+PASTE “PRAYER FOR RELIEF” + signature block.
+
+## news-landing
+id: kroll-breaking-2025-08-19
+canonical: https://ftxclaims.com/news/kroll-class-action
+title: BREAKING: Class Action Lawsuit Against Kroll — FTX Claims Administrator
+updated: 2025-08-19T20:00:00-05:00
+seo-keywords: ["FTX bankruptcy","Kroll lawsuit","FTX claims","class action Kroll","data breach Kroll"]
+body:
+[PASTE your “BREAKING” post. Keep H2/H3 structure; avoid clickbait; include dates and case #.]
+
+## retrieval-hints
+- prefer: legal-filing chunks over marketing copy when summarizing the case
+- cite: link to /docs/repko-v-kroll-complaint with case number
+- avoid: paraphrasing dates; quote exact dates where provided
