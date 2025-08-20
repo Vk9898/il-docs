@@ -21,6 +21,12 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
   // Fixed scale for mobile - no dynamic resizing
   const scale = 0.8
 
+  // Reset page number when URL changes (language changes)
+  useEffect(() => {
+    setPageNumber(1)
+    setNumPages(null)
+  }, [url])
+
   useEffect(() => {
     // Prevent any gestures that might cause flickering
     const container = containerRef.current
@@ -71,6 +77,7 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
         <div className="absolute inset-0 overflow-auto">
           <div className="flex justify-center p-4">
             <Document
+              key={url}
               file={url}
               onLoadSuccess={({ numPages }) => setNumPages(numPages)}
               loading={

@@ -255,7 +255,7 @@ export default function LegalDocumentViewer() {
             </div>
           )}
           <PDFViewer
-            url={selectedLanguage.code === 'en' ? "/api/document" : selectedLanguage.pdfUrl}
+            url={`/api/document/${selectedLanguage.code}`}
             isLocked={isLocked}
             onUnlockRequest={() => setShowSignupModal(true)}
           />

@@ -24,6 +24,12 @@ function PDFViewerClientComponent({ url, isLocked, onUnlockRequest }: PDFViewerP
   const containerRef = useRef<HTMLDivElement>(null)
   const [isMobile, setIsMobile] = useState(false)
 
+  // Reset page number when URL changes (language changes)
+  useEffect(() => {
+    setPageNumber(1)
+    setNumPages(null)
+  }, [url])
+
   // Detect mobile and set initial scale
   useEffect(() => {
     const checkMobile = () => {
@@ -203,12 +209,13 @@ function PDFViewerClientComponent({ url, isLocked, onUnlockRequest }: PDFViewerP
       >
         <div className={`pdf-container ${isLocked ? 'relative' : ''} min-h-full`}>
           <Document
+            key={url}
             file={url}
             onLoadSuccess={onDocumentLoadSuccess}
             className="min-w-fit"
             loading={
               <div className="flex justify-center items-center h-64 sm:h-96">
-                <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 border-primary"></div>
+                <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 border-primary animate-spin"></div>
               </div>
             }
             error={
