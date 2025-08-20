@@ -2,7 +2,8 @@
 
 import { EmailSignupModal } from '@/components/email-signup-modal'
 import { PDFViewer } from '@/components/pdf-viewer'
-import { MessageCircle, Send, Share2, Twitter, Menu, X } from 'lucide-react'
+import { ThemeToggle } from '@/components/theme-toggle'
+import { Share2, Menu, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { toast } from 'sonner'
 
@@ -17,6 +18,9 @@ export default function LegalDocumentViewer() {
     if (signedUp) {
       setIsLocked(false)
       setHasSignedUp(true)
+    } else {
+      // Show signup modal immediately for new users
+      setShowSignupModal(true)
     }
   }, [])
 
@@ -64,14 +68,16 @@ export default function LegalDocumentViewer() {
                 <p className="text-xs text-muted-foreground">powered by <span className="text-primary font-semibold">InstalLaw</span></p>
               </div>
             </div>
-            <div className="flex items-center gap-1 bg-muted/50 rounded-lg p-1">
-              <button
-                type="button"
-                onClick={() => handleShare('twitter')}
+            <div className="flex items-center gap-2">
+              <ThemeToggle />
+              <div className="flex items-center gap-1 bg-muted/50 rounded-lg p-1">
+                <button
+                  type="button"
+                  onClick={() => handleShare('twitter')}
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Twitter"
               >
-                <Twitter className="w-4 h-4" />
+                <img src="/twitter.svg" alt="Twitter" className="w-4 h-4" />
               </button>
               <button
                 type="button"
@@ -79,7 +85,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Reddit"
               >
-                <MessageCircle className="w-4 h-4" />
+                <img src="/reddit.svg" alt="Reddit" className="w-4 h-4" />
               </button>
               <button
                 type="button"
@@ -87,7 +93,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Telegram"
               >
-                <Send className="w-4 h-4" />
+                <img src="/telegram.svg" alt="Telegram" className="w-4 h-4" />
               </button>
               <button
                 type="button"
@@ -97,6 +103,7 @@ export default function LegalDocumentViewer() {
               >
                 <Share2 className="w-4 h-4" />
               </button>
+              </div>
             </div>
           </div>
         </div>

@@ -100,10 +100,10 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
                 <div className="flex justify-center items-center mx-auto mb-4 w-16 h-16 bg-blue-50 rounded-full dark:bg-blue-900/20">
                   <FileText className="w-8 h-8 text-blue-600" />
                 </div>
-                <h2 className="mb-2 text-2xl font-bold text-center">Access Legal Document</h2>
+                <h2 className="mb-2 text-2xl font-bold text-center">Access Full Document</h2>
                 <p className="text-center text-gray-600 dark:text-gray-400">
-                  Provide your email address to view the complete court filing and receive
-                  notifications about related proceedings.
+                  Enter your email to read the complete legal document. We promise not to spam you - 
+                  we&apos;ll only send important updates about this case.
                 </p>
               </div>
 
