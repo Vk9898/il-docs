@@ -1,9 +1,9 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 
 // The PDF URL from Vercel Blob storage
 const BLOB_PDF_URL = 'https://kirleckjvch4fn0m.public.blob.vercel-storage.com/kroll-lawsuit-ftx.pdf';
 
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
     // Fetch from Vercel Blob storage
     const response = await fetch(BLOB_PDF_URL, {

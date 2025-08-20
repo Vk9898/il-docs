@@ -24,7 +24,7 @@ export default function LegalDocumentViewer() {
     }
   }, [])
 
-  const handleSignupSuccess = (email: string) => {
+  const handleSignupSuccess = () => {
     setIsLocked(false)
     setHasSignedUp(true)
     setShowSignupModal(false)
@@ -62,7 +62,8 @@ export default function LegalDocumentViewer() {
               >
                 {sidebarOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
               </button>
-              <img src="/favicon.ico" alt="FTXCLAIMS.COM" className="w-8 h-8" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/favicon-16.svg" alt="FTXCLAIMS.COM" className="w-8 h-8" />
               <div className="hidden sm:block">
                 <h1 className="text-base font-bold tracking-tight text-foreground">FTXCLAIMS.COM <span className="text-muted-foreground font-normal">|</span> Document Viewer</h1>
                 <p className="text-xs text-muted-foreground">powered by <span className="text-primary font-semibold">InstalLaw</span></p>
@@ -77,6 +78,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Twitter"
               >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/twitter.svg" alt="Twitter" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
@@ -85,6 +87,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Reddit"
               >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/reddit.svg" alt="Reddit" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
@@ -93,6 +96,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Telegram"
               >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/telegram.svg" alt="Telegram" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
@@ -119,9 +123,17 @@ export default function LegalDocumentViewer() {
           />
         )}
         
-        {/* Left Sidebar - Document Info */}
-        <aside className={`${sidebarOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0 absolute lg:relative z-20 lg:z-0 w-80 lg:w-96 bg-card border-r border-border flex-shrink-0 overflow-y-auto transition-transform duration-300 h-full`}>
+        {/* Left Sidebar - Document Info - Hidden on mobile by default */}
+        <aside className={`${sidebarOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0 fixed lg:relative top-0 left-0 z-30 lg:z-0 w-80 lg:w-96 bg-card border-r border-border flex-shrink-0 overflow-y-auto transition-transform duration-300 h-full lg:h-auto`}>
           <div className="p-6">
+            {/* Mobile close button */}
+            <button
+              onClick={() => setSidebarOpen(false)}
+              className="lg:hidden absolute top-4 right-4 p-2 rounded-lg hover:bg-muted"
+              aria-label="Close sidebar"
+            >
+              <X className="w-5 h-5" />
+            </button>
             <h2 className="text-xl font-semibold mb-1">
               Repko v. Kroll Restructuring Administration LLC
             </h2>

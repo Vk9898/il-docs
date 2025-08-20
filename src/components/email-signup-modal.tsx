@@ -107,7 +107,7 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
               <div className="mb-6">
                 <h2 className="mb-2 text-2xl font-bold text-center">Access Full Document</h2>
                 <p className="text-center text-gray-600 dark:text-gray-400">
-                  We promise not to spam you - we'll only send important updates about this case.
+                  We promise not to spam you - we&apos;ll only send important updates about this case.
                 </p>
               </div>
 
