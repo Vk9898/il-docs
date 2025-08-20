@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { ThemeProvider } from "next-themes";
 import "./globals.css";
@@ -13,20 +13,21 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "FTX Legal Documents - FTXCLAIMS.COM",
-  description: "Access important legal documents related to FTX bankruptcy proceedings - Repko v. Kroll Restructuring Administration LLC Class Action Complaint",
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-    viewportFit: "cover",
-  },
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  userScalable: true,
+  viewportFit: "cover",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#ffffff" },
     { media: "(prefers-color-scheme: dark)", color: "#0a0a0a" },
   ],
+};
+
+export const metadata: Metadata = {
+  title: "FTX Legal Documents - FTXCLAIMS.COM",
+  description: "Access important legal documents related to FTX bankruptcy proceedings - Repko v. Kroll Restructuring Administration LLC Class Action Complaint",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
