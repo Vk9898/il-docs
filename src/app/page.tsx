@@ -81,6 +81,7 @@ export default function LegalDocumentViewer() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <button
+                type="button"
                 onClick={() => setSidebarOpen(!sidebarOpen)}
                 className="lg:hidden p-1 rounded hover:bg-muted"
                 aria-label="Toggle sidebar"
@@ -142,7 +143,7 @@ export default function LegalDocumentViewer() {
       <div className="flex-1 flex overflow-hidden relative min-h-0">
         {/* Mobile overlay */}
         {sidebarOpen && (
-          <div 
+          <div  
             className="lg:hidden absolute inset-0 bg-black/50 z-10"
             onClick={() => setSidebarOpen(false)}
           />
@@ -153,6 +154,7 @@ export default function LegalDocumentViewer() {
           <div className="p-6">
             {/* Mobile close button */}
             <button
+              type="button"
               onClick={() => setSidebarOpen(false)}
               className="lg:hidden absolute top-4 right-4 p-2 rounded-lg hover:bg-muted"
               aria-label="Close sidebar"

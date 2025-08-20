@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, memo } from 'react'
 import { Document, Page, pdfjs } from 'react-pdf'
 import { ChevronLeft, ChevronRight, ZoomIn, ZoomOut, Lock, Maximize2, Minimize2 } from 'lucide-react'
 import 'react-pdf/dist/Page/AnnotationLayer.css'
@@ -15,7 +15,7 @@ interface PDFViewerProps {
   onUnlockRequest: () => void
 }
 
-export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerProps) {
+function PDFViewerClientComponent({ url, isLocked, onUnlockRequest }: PDFViewerProps) {
   const [numPages, setNumPages] = useState<number | null>(null)
   const [pageNumber, setPageNumber] = useState(1)
   const [scale, setScale] = useState(1.0)
@@ -23,12 +23,16 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
   const [pageWidth, setPageWidth] = useState<number>(0)
   const containerRef = useRef<HTMLDivElement>(null)
   const [isMobile, setIsMobile] = useState(false)
+  const [renderMode, setRenderMode] = useState<'canvas' | 'svg'>('canvas')
 
   // Detect mobile and set initial scale
   useEffect(() => {
     const checkMobile = () => {
       const mobile = window.innerWidth < 768
+      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent)
       setIsMobile(mobile)
+      // Use SVG mode on iOS to avoid canvas memory issues
+      setRenderMode(isIOS ? 'svg' : 'canvas')
       if (mobile && fitToWidth) {
         // Auto fit to width on mobile
         const containerWidth = containerRef.current?.clientWidth || window.innerWidth
@@ -223,8 +227,9 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                   pageNumber={pageNumber}
                   scale={scale}
                   className={`${isLocked && pageNumber > 1 ? 'pdf-blur' : ''} max-w-full`}
-                  renderTextLayer={!isLocked || pageNumber === 1}
+                  renderTextLayer={false}
                   renderAnnotationLayer={false}
+                  renderMode={renderMode}
                   onLoadSuccess={onPageLoadSuccess}
                   loading={
                     <div className="flex justify-center items-center h-[400px] sm:h-[600px]">
@@ -260,3 +265,5 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
     </div>
   )
 }
+
+export const PDFViewerClient = memo(PDFViewerClientComponent)

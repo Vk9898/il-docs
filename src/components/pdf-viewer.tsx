@@ -1,13 +1,6 @@
-import dynamic from 'next/dynamic'
+'use client'
 
-const PDFViewerClient = dynamic(() => import('./pdf-viewer-client').then(mod => ({ default: mod.PDFViewerClient })), {
-  ssr: false,
-  loading: () => (
-    <div className="flex justify-center items-center h-96">
-      <div className="w-12 h-12 rounded-full border-b-2 border-primary"></div>
-    </div>
-  )
-})
+import { PDFViewerClient } from './pdf-viewer-client'
 
 interface PDFViewerProps {
   url: string
