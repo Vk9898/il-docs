@@ -1,8 +1,10 @@
 'use client'
 
-import { useState, useEffect, useCallback, useMemo } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { Document, Page, pdfjs } from 'react-pdf'
 import { ChevronLeft, ChevronRight, ZoomIn, ZoomOut, Lock } from 'lucide-react'
+import 'react-pdf/dist/Page/AnnotationLayer.css'
+import 'react-pdf/dist/Page/TextLayer.css'
 
 // Set up PDF.js worker
 pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`
@@ -18,25 +20,24 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
   const [pageNumber, setPageNumber] = useState(1)
   const [scale, setScale] = useState(1.0)
   const [pageWidth, setPageWidth] = useState<number>(0)
-  const [isLoading, setIsLoading] = useState(true)
 
   // Calculate optimal scale for mobile
   useEffect(() => {
-    const updateContainerWidth = () => {
-      const width = window.innerWidth - 32 // Account for padding
+    const updateScale = () => {
       if (pageWidth > 0) {
+        const width = window.innerWidth - 32 // Account for padding
         const newScale = width / pageWidth
         setScale(Math.min(newScale, 1.2))
       }
     }
 
-    updateContainerWidth()
+    updateScale()
     
     // Debounced resize handler
     let timeoutId: NodeJS.Timeout
     const handleResize = () => {
       clearTimeout(timeoutId)
-      timeoutId = setTimeout(updateContainerWidth, 150)
+      timeoutId = setTimeout(updateScale, 150)
     }
     
     window.addEventListener('resize', handleResize)
@@ -48,7 +49,6 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
 
   const onDocumentLoadSuccess = useCallback(({ numPages }: { numPages: number }) => {
     setNumPages(numPages)
-    setIsLoading(false)
   }, [])
 
   const onPageLoadSuccess = useCallback(({ width }: { width: number }) => {
@@ -73,16 +73,6 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
       return Math.max(0.5, Math.min(2.0, newScale))
     })
   }, [])
-
-  // Memoize the document options
-  const documentOptions = useMemo(() => ({
-    file: url,
-    onLoadSuccess: onDocumentLoadSuccess,
-    options: {
-      cMapUrl: `https://unpkg.com/pdfjs-dist@${pdfjs.version}/cmaps/`,
-      standardFontDataUrl: `https://unpkg.com/pdfjs-dist@${pdfjs.version}/standard_fonts/`,
-    }
-  }), [url, onDocumentLoadSuccess])
 
   // Prevent context menu and selection on locked content
   useEffect(() => {
@@ -164,30 +154,37 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
       {/* PDF Container */}
       <div className="flex-1 overflow-auto">
         <div className="min-h-full p-4">
-          {isLoading ? (
-            <div className="flex justify-center items-center h-96">
-              <div className="w-10 h-10 rounded-full border-2 border-t-transparent border-primary animate-spin" />
-            </div>
-          ) : (
-            <Document {...documentOptions}>
-              <div className="flex justify-center">
-                <Page
-                  key={`page_${pageNumber}`}
-                  pageNumber={pageNumber}
-                  scale={scale}
-                  renderTextLayer={false}
-                  renderAnnotationLayer={false}
-                  onLoadSuccess={onPageLoadSuccess}
-                  className={isLocked && pageNumber > 1 ? 'opacity-10' : ''}
-                  loading={
-                    <div className="flex justify-center items-center h-96">
-                      <div className="w-8 h-8 rounded-full border-2 border-t-transparent border-primary animate-spin" />
-                    </div>
-                  }
-                />
+          <Document
+            file={url}
+            onLoadSuccess={onDocumentLoadSuccess}
+            loading={
+              <div className="flex justify-center items-center h-96">
+                <div className="w-10 h-10 rounded-full border-2 border-t-transparent border-primary animate-spin" />
               </div>
-            </Document>
-          )}
+            }
+            error={
+              <div className="flex justify-center items-center h-96 text-red-500 px-4 text-center">
+                <p className="text-sm">Failed to load PDF. Please try again.</p>
+              </div>
+            }
+          >
+            <div className="flex justify-center">
+              <Page
+                key={`page_${pageNumber}`}
+                pageNumber={pageNumber}
+                scale={scale}
+                renderTextLayer={false}
+                renderAnnotationLayer={false}
+                onLoadSuccess={onPageLoadSuccess}
+                className={isLocked && pageNumber > 1 ? 'opacity-10' : ''}
+                loading={
+                  <div className="flex justify-center items-center h-96">
+                    <div className="w-8 h-8 rounded-full border-2 border-t-transparent border-primary animate-spin" />
+                  </div>
+                }
+              />
+            </div>
+          </Document>
 
           {/* Lock overlay */}
           {isLocked && pageNumber > 1 && (
