@@ -121,8 +121,8 @@ export default function LegalDocumentViewer() {
       </section>
 
       {/* Document Viewer */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        <div className="bg-card rounded-lg shadow-sm overflow-hidden border border-border" style={{ height: '800px' }}>
+      <section className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-4 sm:py-6">
+        <div className="bg-card rounded-lg shadow-sm overflow-hidden border border-border min-h-[400px] max-h-[90vh] sm:max-h-[80vh]">
           {!hasSignedUp && (
             <div className="bg-amber-50 text-amber-900 dark:bg-amber-900/20 dark:text-amber-100 border-b border-border p-3 flex items-start gap-2">
               <div className="text-sm">
