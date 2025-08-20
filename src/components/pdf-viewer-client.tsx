@@ -23,16 +23,12 @@ function PDFViewerClientComponent({ url, isLocked, onUnlockRequest }: PDFViewerP
   const [pageWidth, setPageWidth] = useState<number>(0)
   const containerRef = useRef<HTMLDivElement>(null)
   const [isMobile, setIsMobile] = useState(false)
-  const [renderMode, setRenderMode] = useState<'canvas' | 'svg'>('canvas')
 
   // Detect mobile and set initial scale
   useEffect(() => {
     const checkMobile = () => {
       const mobile = window.innerWidth < 768
-      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent)
       setIsMobile(mobile)
-      // Use SVG mode on iOS to avoid canvas memory issues
-      setRenderMode(isIOS ? 'svg' : 'canvas')
       if (mobile && fitToWidth) {
         // Auto fit to width on mobile
         const containerWidth = containerRef.current?.clientWidth || window.innerWidth
@@ -229,7 +225,6 @@ function PDFViewerClientComponent({ url, isLocked, onUnlockRequest }: PDFViewerP
                   className={`${isLocked && pageNumber > 1 ? 'pdf-blur' : ''} max-w-full`}
                   renderTextLayer={false}
                   renderAnnotationLayer={false}
-                  renderMode={renderMode}
                   onLoadSuccess={onPageLoadSuccess}
                   loading={
                     <div className="flex justify-center items-center h-[400px] sm:h-[600px]">
