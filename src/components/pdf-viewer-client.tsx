@@ -247,7 +247,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
             className="min-w-fit"
             loading={
               <div className="flex justify-center items-center h-64 sm:h-96">
-                <div className={`w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 border-primary ${!isMobile ? 'animate-spin' : ''}`}></div>
+                <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 border-primary"></div>
               </div>
             }
             error={
@@ -267,7 +267,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                   onLoadSuccess={onPageLoadSuccess}
                   loading={
                     <div className="flex justify-center items-center h-[400px] sm:h-[600px]">
-                      <div className={`w-8 h-8 rounded-full border-b-2 border-primary ${!isMobile ? 'animate-spin' : ''}`}></div>
+                      <div className="w-8 h-8 rounded-full border-b-2 border-primary"></div>
                     </div>
                   }
                 />
