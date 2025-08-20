@@ -1,5 +1,13 @@
 // app/llms.txt/route.ts
 const body = `# Dockets - FTXCLAIMS.COM — llms.txt
+# Version 1.1 (2025-08-20)
+
+## Additional Resources
+- Extended complaint details: https://dockets.ftxclaims.com/llms.txt (this file)
+- Summary version: https://dockets.ftxclaims.com/llms-ftx.txt 
+- Full complaint text: https://dockets.ftxclaims.com/llms-full.txt
+
+# Dockets - FTXCLAIMS.COM — llms.txt
 Purpose: Primary-source legal filings and announcements for FTX, BlockFi, and Genesis creditors.
 
 ## High-Priority Content
