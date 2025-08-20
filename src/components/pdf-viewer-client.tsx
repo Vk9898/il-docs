@@ -19,20 +19,16 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
   const [numPages, setNumPages] = useState<number | null>(null)
   const [pageNumber, setPageNumber] = useState(1)
   const [scale, setScale] = useState(1.0)
-  const [containerWidth, setContainerWidth] = useState<number | null>(null)
 
-  // Auto-scale based on container width
+  // Auto-scale based on container width for initial mobile view
   useEffect(() => {
     const updateContainerWidth = () => {
       const container = document.querySelector('.pdf-container')
       if (container) {
         const width = container.clientWidth
-        setContainerWidth(width)
-        // Auto-scale for mobile: fit to container width, with reasonable limits
-        if (width < 768) { // mobile breakpoint
-          setScale(Math.min(width / 600, 1.2)) // Adjust base scale for mobile
-        } else {
-          setScale(1.0)
+        // Auto-scale for mobile on initial load only
+        if (width < 768 && scale === 1.0) { // mobile breakpoint
+          setScale(Math.min(width / 600, 0.9)) // Fit to mobile width initially
         }
       }
     }
@@ -40,7 +36,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
     updateContainerWidth()
     window.addEventListener('resize', updateContainerWidth)
     return () => window.removeEventListener('resize', updateContainerWidth)
-  }, [])
+  }, [scale])
 
   useEffect(() => {
     const handleContextMenu = (e: MouseEvent) => {
@@ -151,12 +147,12 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
       </div>
 
       {/* PDF Document */}
-      <div className="overflow-auto flex-1 bg-gray-50 dark:bg-gray-950 scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600 scrollbar-track-transparent">
-        <div className={`pdf-container ${isLocked ? 'relative' : ''} min-h-full`}>
+      <div className="overflow-auto flex-1 bg-gray-50 dark:bg-gray-950 scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600 scrollbar-track-transparent relative">
+        <div className={`pdf-container ${isLocked ? 'relative' : ''} min-h-full overflow-auto`}>
           <Document
             file={url}
             onLoadSuccess={onDocumentLoadSuccess}
-            className="flex justify-center py-4 sm:py-8 px-2 sm:px-4"
+            className="min-w-fit"
             loading={
               <div className="flex justify-center items-center h-64 sm:h-96">
                 <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 animate-spin border-primary"></div>
@@ -168,14 +164,15 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
               </div>
             }
           >
-            <Page
-              pageNumber={pageNumber}
-              scale={scale}
-              className={`${isLocked && pageNumber > 1 ? 'pdf-blur' : ''} max-w-full shadow-lg`}
-              renderTextLayer={!isLocked || pageNumber === 1}
-              renderAnnotationLayer={false}
-              width={containerWidth ? Math.min(containerWidth - 32, 800) : undefined}
-            />
+            <div className="flex justify-center py-4 sm:py-8 px-2 sm:px-4">
+              <Page
+                pageNumber={pageNumber}
+                scale={scale}
+                className={`${isLocked && pageNumber > 1 ? 'pdf-blur' : ''} shadow-lg`}
+                renderTextLayer={!isLocked || pageNumber === 1}
+                renderAnnotationLayer={false}
+              />
+            </div>
           </Document>
 
           {/* Lock overlay for pages after the first */}
