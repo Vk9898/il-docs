@@ -8,6 +8,26 @@ import { useEffect, useState } from 'react'
 import { toast } from 'sonner'
 
 export default function LegalDocumentViewer() {
+  // Structured data for SEO
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "LegalDocument",
+    "name": "Repko v. Kroll Restructuring Administration LLC",
+    "description": "Class Action Complaint filed in U.S. District Court for the Western District of Texas",
+    "datePublished": "2025-08-19",
+    "publisher": {
+      "@type": "Organization",
+      "name": "FTXCLAIMS.COM",
+      "url": "https://dockets.ftxclaims.com"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Case Number",
+      "value": "1:25-cv-01319"
+    },
+    "jurisdiction": "U.S. District Court for the Western District of Texas",
+    "documentType": "Class Action Complaint"
+  };
   const [isLocked, setIsLocked] = useState(true)
   const [showSignupModal, setShowSignupModal] = useState(false)
   const [hasSignedUp, setHasSignedUp] = useState(false)
@@ -49,6 +69,11 @@ export default function LegalDocumentViewer() {
   }
 
   return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
     <div className="h-screen bg-background flex flex-col overflow-hidden">
       {/* Fixed Header */}
       <header className="bg-card/95 backdrop-blur-sm border-b border-border shadow-sm flex-shrink-0">
@@ -203,5 +228,6 @@ export default function LegalDocumentViewer() {
         onSuccess={handleSignupSuccess}
       />
     </div>
+    </>
   )
 }

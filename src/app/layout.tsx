@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "FTX Legal Documents - FTXCLAIMS.COM",
-  description: "Access important legal documents related to FTX bankruptcy proceedings",
+  description: "Access important legal documents related to FTX bankruptcy proceedings - Repko v. Kroll Restructuring Administration LLC Class Action Complaint",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -31,6 +31,41 @@ export const metadata: Metadata = {
     capable: true,
     statusBarStyle: "default",
     title: "FTXCLAIMS.COM",
+  },
+  openGraph: {
+    title: "Repko v. Kroll Restructuring Administration LLC - FTXCLAIMS.COM",
+    description: "Class Action Complaint filed in U.S. District Court for the Western District of Texas. Case Number: 1:25-cv-01319. Access the full legal document.",
+    url: "https://dockets.ftxclaims.com",
+    siteName: "FTXCLAIMS.COM",
+    images: [
+      {
+        url: "https://dockets.ftxclaims.com/api/og",
+        width: 1200,
+        height: 630,
+        alt: "Repko v. Kroll Restructuring Administration LLC - Legal Document Preview",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Repko v. Kroll - FTX Legal Document",
+    description: "Class Action Complaint filed in U.S. District Court. Access the full legal document on FTXCLAIMS.COM",
+    images: ["https://dockets.ftxclaims.com/api/og"],
+    site: "@ftxclaims",
+    creator: "@ftxclaims",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 
