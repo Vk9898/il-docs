@@ -200,4 +200,17 @@ html, body {
   body {
     overflow-x: hidden;
   }
+  
+  /* Prevent flickering on mobile */
+  .react-pdf__Page {
+    transform: translateZ(0) !important;
+    backface-visibility: hidden !important;
+    -webkit-backface-visibility: hidden !important;
+    will-change: auto !important;
+  }
+  
+  .react-pdf__Page canvas {
+    image-rendering: crisp-edges !important;
+    image-rendering: -webkit-crisp-edges !important;
+  }
 }
