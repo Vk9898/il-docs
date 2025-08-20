@@ -4,7 +4,7 @@ const PDFViewerClient = dynamic(() => import('./pdf-viewer-client').then(mod => 
   ssr: false,
   loading: () => (
     <div className="flex justify-center items-center h-96">
-      <div className="w-12 h-12 rounded-full border-b-2 animate-spin border-primary"></div>
+      <div className="w-12 h-12 rounded-full border-b-2 border-primary"></div>
     </div>
   )
 })

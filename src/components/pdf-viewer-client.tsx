@@ -164,7 +164,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                 type="button"
                 onClick={() => changePage(-1)}
                 disabled={pageNumber <= 1}
-                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation active:scale-95 transition-transform"
+                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation"
                 aria-label="Previous page"
               >
                 <ChevronLeft className="w-5 h-5" />
@@ -176,7 +176,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                 type="button"
                 onClick={() => changePage(1)}
                 disabled={!numPages || pageNumber >= numPages}
-                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation active:scale-95 transition-transform"
+                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation"
                 aria-label="Next page"
               >
                 <ChevronRight className="w-5 h-5" />
@@ -199,7 +199,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                 type="button"
                 onClick={() => changeZoom(-0.1)}
                 disabled={scale <= 0.5}
-                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation active:scale-95 transition-transform"
+                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation"
                 aria-label="Zoom out"
               >
                 <ZoomOut className="w-4 h-4" />
@@ -211,7 +211,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                 type="button"
                 onClick={() => changeZoom(0.1)}
                 disabled={scale >= 2.0}
-                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation active:scale-95 transition-transform"
+                className="p-1.5 sm:p-2 rounded-lg bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed touch-manipulation"
                 aria-label="Zoom in"
               >
                 <ZoomIn className="w-4 h-4" />
@@ -247,7 +247,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
             className="min-w-fit"
             loading={
               <div className="flex justify-center items-center h-64 sm:h-96">
-                <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 animate-spin border-primary"></div>
+                <div className={`w-8 h-8 sm:w-12 sm:h-12 rounded-full border-b-2 border-primary ${!isMobile ? 'animate-spin' : ''}`}></div>
               </div>
             }
             error={
@@ -267,7 +267,7 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
                   onLoadSuccess={onPageLoadSuccess}
                   loading={
                     <div className="flex justify-center items-center h-[400px] sm:h-[600px]">
-                      <div className="w-8 h-8 rounded-full border-b-2 animate-spin border-primary"></div>
+                      <div className={`w-8 h-8 rounded-full border-b-2 border-primary ${!isMobile ? 'animate-spin' : ''}`}></div>
                     </div>
                   }
                 />

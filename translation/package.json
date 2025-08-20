@@ -1,0 +1,16 @@
+{
+  "name": "legal-document-translator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Translate legal documents to 40 languages using Gemini AI",
+  "main": "translate-documents.js",
+  "scripts": {
+    "translate": "node translate-all-languages.js",
+    "translate-single": "node translate-single.js",
+    "translate-all": "node translate-all-languages.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "pdfkit": "^0.15.2"
+  }
+}
