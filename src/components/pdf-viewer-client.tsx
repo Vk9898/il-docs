@@ -94,9 +94,9 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
   }
 
   return (
-    <div className="flex relative flex-col h-full">
+    <div className="flex relative flex-col h-full max-h-full">
       {/* PDF Controls */}
-      <div className="sticky top-0 z-20 p-2 sm:p-4 bg-white border-b border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+      <div className="flex-shrink-0 z-20 p-2 sm:p-4 bg-white border-b border-gray-200 dark:bg-gray-900 dark:border-gray-700">
         <div className="flex flex-col sm:flex-row justify-between items-center mx-auto max-w-4xl gap-2 sm:gap-0">
           <div className="flex gap-1 sm:gap-2 items-center">
             <button
@@ -147,8 +147,8 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
       </div>
 
       {/* PDF Document */}
-      <div className="overflow-auto flex-1 bg-gray-50 dark:bg-gray-950 scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600 scrollbar-track-transparent relative">
-        <div className={`pdf-container ${isLocked ? 'relative' : ''} min-h-full overflow-auto`}>
+      <div className="flex-1 min-h-0 overflow-auto bg-gray-50 dark:bg-gray-950 scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600 scrollbar-track-transparent">
+        <div className={`pdf-container ${isLocked ? 'relative' : ''}`}>
           <Document
             file={url}
             onLoadSuccess={onDocumentLoadSuccess}
