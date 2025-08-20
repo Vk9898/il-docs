@@ -96,7 +96,7 @@ export default function PressReleasePage() {
           <div className="grid gap-4 md:grid-cols-2 mb-8">
             {/* Complaint Document */}
             <Link 
-              href="/"
+              href="/kroll"
               className="flex items-start gap-4 p-4 rounded-lg border bg-card hover:bg-accent transition-colors"
             >
               <div className="p-2 rounded-lg bg-primary/10">
