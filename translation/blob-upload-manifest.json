@@ -1,0 +1,335 @@
+{
+  "timestamp": "2025-08-20T20:06:22.672Z",
+  "successful": 82,
+  "failed": 0,
+  "files": [
+    {
+      "path": "translations/pdfs/kroll_complaint_ar.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ar.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_bg.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_bg.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_bn.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_bn.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_cs.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_cs.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_da.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_da.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_de.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_de.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_el.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_el.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_es.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_es.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_et.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_et.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_fa.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_fa.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_fi.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_fi.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_fr.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_fr.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_gu.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_gu.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_he.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_he.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_hi.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_hi.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_hr.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_hr.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_hu.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_hu.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_id.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_id.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_it.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_it.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_ja.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ja.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_kn.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_kn.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_ko.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ko.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_lt.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_lt.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_lv.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_lv.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_ml.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ml.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_mr.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_mr.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_nl.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_nl.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_no.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_no.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_pl.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_pl.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_pt.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_pt.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_ro.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ro.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_ru.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_ru.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_sk.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_sk.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_sl.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_sl.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_sr.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_sr.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_sv.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_sv.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_sw.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_sw.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_th.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_th.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_uk.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_uk.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_zh-CN.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_zh-CN.pdf"
+    },
+    {
+      "path": "translations/pdfs/kroll_complaint_zh-TW.pdf",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/pdfs/kroll_complaint_zh-TW.pdf"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ar_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ar_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_bg_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_bg_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_bn_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_bn_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_cs_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_cs_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_da_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_da_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_de_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_de_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_el_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_el_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_es_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_es_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_et_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_et_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_fa_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_fa_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_fi_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_fi_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_fr_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_fr_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_gu_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_gu_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_he_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_he_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_hi_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_hi_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_hr_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_hr_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_hu_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_hu_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_id_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_id_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_it_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_it_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ja_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ja_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_kn_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_kn_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ko_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ko_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_lt_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_lt_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_lv_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_lv_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ml_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ml_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_mr_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_mr_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_nl_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_nl_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_no_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_no_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_pl_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_pl_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_pt_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_pt_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ro_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ro_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_ru_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_ru_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_sk_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_sk_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_sl_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_sl_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_sr_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_sr_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_sv_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_sv_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_sw_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_sw_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_th_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_th_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_uk_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_uk_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_zh-CN_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_zh-CN_raw.md"
+    },
+    {
+      "path": "translations/markdown/kroll_complaint_zh-TW_raw.md",
+      "url": "https://kirleckjvch4fn0m.public.blob.vercel-storage.com/translations/markdown/kroll_complaint_zh-TW_raw.md"
+    }
+  ]
+}

@@ -9,55 +9,15 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Gemini API configuration - USING GEMINI 2.5 PRO
-const GEMINI_API_KEY = 'AIzaSyA3KqC56mYYncSli-7W9--oM7WD8-nrVk4';
+const GEMINI_API_KEY = 'AIxxxx';
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
-// All 40 languages
+// Remaining 6 languages only
 const LANGUAGES = [
-  { code: 'ar', name: 'Arabic' },
-  { code: 'bn', name: 'Bengali' },
-  { code: 'bg', name: 'Bulgarian' },
-  { code: 'zh-CN', name: 'Chinese (Simplified)' },
-  { code: 'zh-TW', name: 'Chinese (Traditional)' },
-  { code: 'hr', name: 'Croatian' },
-  { code: 'cs', name: 'Czech' },
-  { code: 'da', name: 'Danish' },
-  { code: 'nl', name: 'Dutch' },
-  { code: 'et', name: 'Estonian' },
-  { code: 'fa', name: 'Farsi' },
-  { code: 'fi', name: 'Finnish' },
-  { code: 'fr', name: 'French' },
-  { code: 'de', name: 'German' },
-  { code: 'el', name: 'Greek' },
-  { code: 'gu', name: 'Gujarati' },
-  { code: 'he', name: 'Hebrew' },
-  { code: 'hi', name: 'Hindi' },
-  { code: 'hu', name: 'Hungarian' },
-  { code: 'id', name: 'Indonesian' },
-  { code: 'it', name: 'Italian' },
-  { code: 'ja', name: 'Japanese' },
-  { code: 'kn', name: 'Kannada' },
-  { code: 'ko', name: 'Korean' },
-  { code: 'lv', name: 'Latvian' },
-  { code: 'lt', name: 'Lithuanian' },
-  { code: 'ml', name: 'Malayalam' },
-  { code: 'mr', name: 'Marathi' },
-  { code: 'no', name: 'Norwegian' },
-  { code: 'pl', name: 'Polish' },
-  { code: 'pt', name: 'Portuguese' },
-  { code: 'ro', name: 'Romanian' },
-  { code: 'ru', name: 'Russian' },
-  { code: 'sr', name: 'Serbian' },
-  { code: 'sk', name: 'Slovak' },
-  { code: 'sl', name: 'Slovenian' },
-  { code: 'es', name: 'Spanish' },
-  { code: 'sw', name: 'Swahili' },
   { code: 'sv', name: 'Swedish' },
   { code: 'ta', name: 'Tamil' },
   { code: 'te', name: 'Telugu' },
-  { code: 'th', name: 'Thai' },
   { code: 'tr', name: 'Turkish' },
-  { code: 'uk', name: 'Ukrainian' },
   { code: 'ur', name: 'Urdu' },
   { code: 'vi', name: 'Vietnamese' }
 ];

@@ -1,0 +1,211 @@
+KATIKA MAHAKAMA YA WILAYA YA MAREKANI KWA WILAYA YA MAGHARIBI YA TEXAS IDARA YA AUSTIN
+
+JACOB KEVYN REPKO, kibinafsi na kwa niaba ya wengine wote walio katika hali sawa,
+
+Mlalamikaji,
+
+v.
+
+KROLL RESTRUCTURING
+ADMINISTRATION LLC (f/k/a Prime Clerk LLC),
+
+Mshtakiwa.
+
+)
+) Na. ya Kesi: 1:25-cv-01319
+)
+)
+) MALALAMIKO YA KESI YA PAMOJA
+)
+)
+)
+) KESI MBELE YA BARAZA LA WAZEE IMEOMBWA
+)
+)
+)
+
+MALALAMIKO YA KESI YA PAMOJA
+
+Mlalamikaji Jacob Kevyn Repko (“Mlalamikaji”), kibinafsi na kwa niaba ya wengine wote walio katika hali sawa, kupitia kwa wakili aliyetia saini hapa chini, anadai yafuatayo dhidi ya Mshtakiwa Kroll Restructuring Administration LLC (f/k/a Prime Clerk LLC) (“Kroll” au “Mshtakiwa”). Kulingana na ufahamu wa kibinafsi pamoja na taarifa na imani, Mlalamikaji anadai hasa kama ifuatavyo:
+ASILI YA KESI
+
+1. Hii ni kesi ya pamoja ya uvunjaji wa data na usimamizi wa uzembe inayotokana na tukio la kiusalama la Kroll la Agosti 19, 2023 na kushindwa kwake kusimamia michakato na notisi zinazowakabili wadai kwa uangalifu unaofaa katika kesi tatu kubwa za ufilisi wa sarafu za kidijitali—FTX, BlockFi, na Genesis.
+2. Uvunjaji wa Kroll ulifichua (miongoni mwa mambo mengine) majina, anwani, anwani za barua pepe, namba za simu, vitambulisho/kiasi cha madai, na nakala za fomu za uthibitisho wa madai—data hasa ambayo wahalifu hutumia kulenga waathiriwa wa sarafu za kidijitali kwa uhadaa (phishing) na mashambulizi ya kimwili ("wrench" attacks).
+3. Baada ya uvunjaji huo, Kroll aliendelea kutumia notisi muhimu kupitia barua pepe pekee (ikiwemo Pingamizi la 130 la Pamoja la FTX, uthibitisho wa madai, na tarehe za mwisho za fomu za kodi), licha ya (a) kuenea kwa ulaghai wa kuiga ambao uliwafunza wadai wengi kuepuka kufungua barua pepe za "Kroll" na (b) uwezo ulioonyeshwa wa Kroll wa kutuma barua za daraja la kwanza za USPS alipoamua kufanya hivyo—k.m., katika kesi ya Genesis, ambapo Kroll alituma notisi za uvunjaji kupitia Barua ya Daraja la Kwanza.
+4. Mahakama za ufilisi za shirikisho zilikuwa zimefunga PII (Taarifa za Utambulisho Binafsi) za wadai hasa ili kuzuia uhalifu unaolenga sarafu za kidijitali—zikirejelea madhara halisi yaliyoonekana katika ufilisi wa Celsius (uhadaa na mashambulizi ya kimwili). Hati za kesi ya Genesis zina kumbukumbu za wasiwasi huu katika amri za kufunga taarifa za wateja.
+5. Mlalamikaji Jacob Kevyn Repko (Dripping Springs, Texas) aliwasilisha dai la mteja wa FTX, kisha akapokea notisi ya uvunjaji ya Kroll ya Agosti 24, 2023. PII yake na data ya dai lake vilikuwa miongoni mwa data zilizoathiriwa.
+6. Katika miezi iliyofuata, Tovuti ya Madai ya Wateja wa FTX (“Tovuti ya FTX”) iliharibika mara kwa mara: KYC (Mfahamu Mteja Wako) ya Mlalamikaji ilionyesha “Imethibitishwa,” kisha ikarudi kuwa “Imesitishwa/Haijathibitishwa,” ikimzuia kupakia fomu ya IRS (W-9) inayohitajika kupokea mgao, licha ya barua pepe nyingi za usaidizi.
+7. Kwa sababu Tovuti ya FTX inazuia upakiaji wa fomu ya kodi hadi “KYC Imethibitishwa,” Mlalamikaji hawezi kukamilisha masharti ya mwisho; chini ya mpango uliothibitishwa na mawasiliano ya amana, madai yanaweza kufutwa au mgao kupotezwa ikiwa fomu za kodi hazitapakiwa kwa wakati.
+8. Mlalamikaji pia alipata hasara ya moja kwa moja ya uhadaa kufuatia uvunjaji huo: alihamisha ETH 1.9 kutoka akaunti ya soko la fedha hadi kwenye pochi yake ya kidijitali (hot wallet) saa 12:43 PM mnamo Julai 3, 2025 na ilielekezwa kwingine kupitia roboti ya miamala ya kiotomatiki inayotumiwa mara kwa mara kukatiza uhamisho unaosubiri kwenda kwenye pochi isiyodhibitiwa na Mlalamikaji, kulingana na onyo la Kroll mwenyewe kwamba washambuliaji wangetumia data iliyovuja kufanya uhadaa kwenye akaunti za sarafu za kidijitali.
+PANDE HUSIKA
+9. Mlalamikaji Jacob Repko ni mtu halisi anayeishi katika Kaunti ya Hays, Texas. Yeye ni mteja-mdai wa FTX mwenye dai lililoratibiwa la $87,487.93.
+
+10. Mshtakiwa Kroll Restructuring Administration LLC ni kampuni ya LLC ya Delaware yenye shughuli muhimu nchi nzima, ikiwemo ofisi Texas.
+11. Kwa taarifa na imani, Mlalamikaji pia anawashtaki Washtakiwa Wasiojulikana 1-5, mashirika yasiyo ya Kroll ambayo hayajatambuliwa kwa sasa yaliyoshiriki, ikiwa yalishiriki, katika uthibitisho unaowakabili wadai au upokeaji wa fomu za kodi (ikiwemo wachuuzi wa tatu wa KYC). Kwa kiwango ambacho shirika lolote lisilo la Kroll lilidhibiti alama za hali ya KYC au uzuiaji wa W-9/W-8 ndani ya Tovuti ya FTX, Mlalamikaji anawasilisha madai hayo kwa njia mbadala na atarekebisha na kubadilisha majina halisi yatakapotambuliwa. Ikiwa Kroll atateua mhusika yeyote anayewajibika, Mlalamikaji atamjumuisha mhusika huyo kwa wakati chini ya sheria za uwajibikaji sawia za Texas.
+MAMLAKA NA MAHALI PA KESI
+
+12. Mahakama hii ina mamlaka ya kisheria juu ya suala chini ya 28 U.S.C. § 1332(d) (CAFA): makundi yanayopendekezwa yanazidi wanachama 100; jumla ya mzozo inazidi $5,000,000; utofauti mdogo upo (mlalamikaji wa Texas dhidi ya mshtakiwa wa Delaware/New York na wanachama wa kundi kutoka nchi nzima/kimataifa).
+13. Mahakama hii ina mamlaka ya kisheria juu ya Kroll kwa sababu Kroll ana ofisi Austin, Dallas, na Houston, anaelekeza kwa makusudi kazi za usimamizi/utoaji notisi na mawasiliano ya wadai kwenda Texas, na alifanya vitendo vilivyosababisha madhara kwa mkazi wa Texas katika Wilaya hii. Madai ya Mlalamikaji yanatokana na au yanahusiana na mwenendo huo wa kimahakama, na kutumia mamlaka kunalingana na mchakato wa haki.
+14. Mahali pa kesi ni sahihi chini ya 28 U.S.C. § 1391(b) kwa sababu sehemu kubwa ya matukio na madhara yalitokea katika Wilaya hii: Mlalamikaji anaishi hapa, alipokea notisi za Kroll hapa, alitumia Tovuti ya Madai ya Wateja wa FTX (claims.ftx.com) na kisha Uthibitisho wa Dai la Kielektroniki (“EPOC”) wa Kroll hapa, na alipata hasara ya uhadaa hapa.
+15. Kwa wakati huu, Mlalamikaji hawakilishi madai dhidi ya Wadeniwa, au mhusika yeyote aliyeachiliwa chini ya mpango, na hatafuti nafuu inayohitaji tafsiri, marekebisho, au utekelezaji wa Mpango au Amri ya Uthibitisho. Haya ni madai huru ya dhuluma/mkataba dhidi ya Kroll asiye mdeniwa. Kesi hii si shauri la msingi; Mlalamikaji anadai kesi mbele ya baraza la wazee na hakubali uamuzi wa mahakama ya ufilisi.
+UFAFANUZI
+
+16. “Tovuti ya Madai ya Wateja wa FTX” au “Tovuti ya FTX” inamaanisha tovuti ya claims.ftx.com inayoendeshwa kwa ajili ya Wadeniwa/Amana ya Ufufuaji wa FTX (pamoja na wachuuzi) kushughulikia KYC/AML na ukaguzi wa akaunti. “Tovuti ya Kroll” inamaanisha tovuti ya Kroll, ikiwemo kiolesura cha EPOC kwenye restructuring.ra.kroll.com, ambacho kilipokea mawasilisho ya Fomu 410 ya ufilisi na kudumisha daftari la umma la madai. Ambapo udhibiti hauko wazi, Mlalamikaji anadai kwa njia mbadala dhidi ya Washtakiwa Wasiojulikana watakaobadilishwa watakapotambuliwa.
+MADAI YA UKWELI
+
+A. Uvunjaji wa Kroll Ulihusisha FTX, Genesis, na BlockFi
+
+17. Mnamo au karibu na Agosti 19, 2023, mshambuliaji alibadilisha SIM kadi ya simu ya mfanyakazi wa Kroll kwa ulaghai, akipata faili za wingu za Kroll zenye data ya wadai kwa kila kesi ya ufilisi. Taarifa za kijasusi za vitisho huru zinathibitisha kuwa data zilizoathiriwa zilitumiwa baadaye na wahalifu wa ulaghai kulenga wadai wa FTX na miamala ya soko la pili.
+18. Uwasilishaji wa Kroll katika kesi ya Genesis unakiri data iliyoathiriwa ilijumuisha majina, namba za simu, anwani, namba/kiasi cha madai, salio la pochi/sarafu, na nakala za uthibitisho wa madai.
+19. Notisi ya BlockFi inaeleza zaidi kwamba tarehe ya kuzaliwa, anwani ya posta, na namba za leseni za udereva zilihusika na inasimulia ucheleweshaji wa Kroll katika kutambua kundi kubwa la “Faili Zisizo na Muundo.”
+B. Mahakama Zilifunga PII za Wadai Kwa Sababu Wadai wa Sarafu za Kidijitali Wanakabiliwa na Njia za Kipekee za Mashambulizi
+
+20. Katika kesi ya Genesis, mahakama ilitoa amri za kufunga zinazolinda majina/mawasiliano ya wadai, ikirejelea uzoefu wa Celsius ambapo uhadaa na mashambulizi ya kimwili yalifuata ufichuzi wa umma.
+C. Kroll Alijua Barua Pepe Haikuwa Salama Lakini Alishindwa Kutumia Barua ya Posta kwa Notisi Muhimu
+
+21. Kwa taarifa na imani, Kroll aliwaonya hadharani wadai wa Genesis kuhusu uhadaa na alituma notisi za uvunjaji kwa Barua ya Daraja la Kwanza ili kuhakikisha uwasilishaji.
+22. Hata hivyo katika FTX, kwa notisi zenye umuhimu sawa (au zaidi)—ikiwemo tarehe za mwisho za Pingamizi la 130 la Pamoja (k.m., anza KYC ifikapo Machi 1, 2025; kamilisha ifikapo Juni 1, 2025) na tarehe ya mwisho ya fomu ya kodi—Kroll alitegemea hasa barua pepe miezi michache tu baada ya uvunjaji wake mwenyewe uliosababisha uhadaa, akijua wapokeaji wengi hawatafungua barua pepe za "Kroll" kwa hofu ya utapeli au watazikuta kwenye folda za barua taka/spam. Taarifa za kijasusi za vitisho za umma zinaonyesha utekaji wa akaunti unaoongozwa na uhadaa ambapo wahalifu walibadilisha barua pepe za wadai kuwa anwani mpya za ProtonMail na kupita haraka changamoto za uthibitishaji wa hatua mbili (2FA)—shambulio hasa ambalo mbinu ya Kroll ya kutumia barua pepe pekee haikukabiliana nalo.
+23. Tovuti ya FTX inazuia upakiaji wa W-9/W-8BEN hadi uthibitisho wa KYC ufanyike. Wakati tovuti inamrudisha mtumiaji kimakosa kuwa “Imesitishwa/Haijathibitishwa,” hatua ya fomu ya kodi inakuwa haiwezekani—ikihatarisha kufutwa kwa dai au kupoteza mgao chini ya michakato ya mpango iliyowasilishwa kwa wadai. Katika mazingira ambapo wadai wamefunzwa kuepuka barua pepe za ‘Kroll’ kutokana na uigaji unaoendelea, hatua ya fomu ya kodi ya mtandaoni pekee iliyozuiliwa bila mbadala wa Barua ya Daraja la Kwanza haikuwa imehesabiwa ipasavyo kuwajulisha au kuwezesha ukamilishaji.
+24. Amri ya uthibitisho ya FTX inaeleza wazi kwamba Kroll haachiwi au kusamehewa kwa madai ya “Tukio la Kiusalama” na kwamba fidia ya wateja inayoweza kupatikana katika shauri lingine haizuiliwi na mgao wa mpango. Mlalamikaji anaomba kwa heshima notisi ya kimahakama ya dondoo hiyo ya amri ya uthibitisho chini ya Fed. R. Evid. 201.
+25. Mbali na kuajiriwa na mahakama ya ufilisi chini ya §156(c) ya utoaji notisi, Kroll aliajiriwa kama Mshauri wa Usimamizi kutekeleza huduma za usimamizi wa ufilisi chini ya hati zake za makubaliano na amri ya ajira ya Mahakama. Majukumu haya yanayowakabili wadai (uhamasishaji/upigaji kura/uhesabuji na kushughulikia mawasiliano ya wadai) yanaunga mkono majukumu ya usimamizi yanayodaiwa humu.
+
+D. Uzoefu wa Mlalamikaji
+
+26. Mlalamikaji aliwasilisha dai lake la mteja akitumia Tovuti ya FTX na, alipoombwa, aliwasilisha Fomu 410 ya ufilisi kupitia EPOC ya Kroll.
+27. Alipokea notisi ya uvunjaji ya Kroll ikithibitisha kufichuliwa kwa jina lake, anwani, barua pepe, na salio la akaunti na kuonya juu ya uhadaa unaolenga mali za sarafu za kidijitali.
+28. Baada ya kuhangaika na kufungiwa nje ya tovuti na ucheleweshaji, KYC ya Mlalamikaji ilithibitishwa mnamo au karibu na Novemba 3, 2023, lakini tovuti baadaye ilirudi kuwa “Imesitishwa,” ikizuia upakiaji wa fomu ya IRS; barua pepe nyingi kwa Kroll hazikujibiwa.
+29. Baada ya uvunjaji, Mlalamikaji alihadaiwa: ETH 1.9 ziliondolewa dakika chache baada ya kufika kwenye pochi yake ya kidijitali (kuwasili saa 12:43 PM; kutoka saa 12:49 PM kwenda anwani ya mshambuliaji).
+30. Mlalamikaji ana dai la FTX lililoratibiwa la $87,487.93 na sasa anakabiliwa na hasara ya sehemu au thamani yote ya mgao kwa sababu hawezi kutimiza masharti ya mpango kutokana na hitilafu za tovuti na kushindwa kwa notisi.
+31. Mlalamikaji alipata madhara dhahiri ikiwemo: (a) matumizi mabaya halisi—wizi wa ETH 1.9 ndani ya dakika chache baada ya kuwasili kwenye pochi yake mnamo Julai 3, 2025; (b) madhara ya thamani ya muda na mgao kutokana na uthibitisho/uwasilishaji wa fomu ya kodi uliozuiwa; (c) gharama za kujikinga alizotoa mfukoni; (d) kupoteza faragha/udhibiti wa PII; na (e) hatari kubwa ya matumizi mabaya ya baadaye kutokana na mifumo ya ulengaji wa sarafu za kidijitali iliyoelezwa humu.
+E. Matumizi Mabaya ya Kimfumo ya Data ya Wadai Iliyovuja
+32. Uwezekano wa kutabirika si dhana tu: wachunguzi walifuatilia ulaghai wa dola milioni 5.6 uliotumia data ya madai ya FTX, ikiwemo mauzo ya seti za data za wadai kwenye wavuti wa giza na mifumo ya kubadilisha barua pepe/kupita 2FA—madhara hasa ambayo mahakama zilitaka kuzuia kwa kufunga PII za wadai wa sarafu za kidijitali. Ujumbe tofauti wa Kroll kwamba hakuna PII nyeti iliyokuwa hatarini uliwapotosha watumiaji kuhusu haja ya kuchukulia kila barua pepe ya "Kroll" kama ya kutiliwa shaka na kudai msaada wa barua ya posta.
+
+33. Taarifa za kijasusi za vitisho huru zinathibitisha kwamba data ya wadai wa FTX imekuwa ikitumika kikamilifu dhidi ya wadai na washirika wao. Mnamo Julai-Novemba 2024, wachunguzi walirekodi angalau ulaghai wa dola milioni 5.6 unaohusishwa na biashara ya madai ya FTX, ambapo mhusika (au kikundi) aliiga wamiliki wa madai akitumia picha za selfie zilizobadilishwa na AI, akaunti mpya za ProtonMail, na vitambulisho bandia.
+34. Mbinu za mhusika huyo zilijumuisha: (a) anwani za ProtonMail zilizoundwa hivi karibuni zikichukua nafasi ya barua pepe ya awali ya mdai; (b) uingizaji wa haraka wa nambari za 2FA, ikionyesha utekaji wa akaunti; na (c) usafishaji wa fedha kupitia anwani za amana za Gate.io, CoinEx, na Binance. Mifumo hii inalingana na udukuzi wa vitambulisho unaoongozwa na uhadaa kufuatia tukio la Kroll.
+35. Utafiti huo huo unaonyesha data ya madai ya FTX ikitangazwa kwenye mabaraza ya wavuti wa giza, ikiwemo majina, simu, barua pepe, maelezo ya pochi/miamala, na data nyingine inayohusiana na madai—maeneo hasa ambayo Kroll alikiri yaliathiriwa (majina, barua pepe, namba za simu, anwani za posta, vitambulisho na salio la akaunti, na katika baadhi ya kesi tarehe za kuzaliwa).
+36. Wachunguzi pia waliona mabadiliko ya barua pepe kwenda kwenye akaunti za ProtonMail za baada ya kuzimwa kwa madai yaliyofunguliwa awali na barua pepe tofauti, ikionyesha utekaji na uigaji wa akaunti za wadai.
+37. Ripoti inaeleza njia za blockchain kutoka pochi za waigaji hadi anwani za amana za CoinEx na inatambua pochi ya kati inayohusishwa na shughuli za miamala ya kiotomatiki; inaeleza mwingiliano na masoko ya fedha ya Marekani (Coinbase na Kraken) ambayo yanaweza kuitwa kwa subpoena kwa KYC. Hii inathibitisha muundo wa ulaghai unaoshikamana, unaoweza kurudiwa unaotumia PII za wadai na udhaifu wa mtiririko wa kazi.
+38. Ripoti inaeleza zaidi kosa la “Orbeon Forms – Page Not Found” lililoonekana wakati wa ukaguzi wa kina wa Tovuti ya FTX—linalingana na mtiririko wa kazi wa mdai ulio dhaifu na hali za makosa ambazo wahalifu wanaweza kuiga, na hivyo kuongeza mkanganyiko katika mazingira ya uhadaa wa hali ya juu.
+F. Upotoshaji na Uachaji Baada ya Uvunjaji
+
+39. Kroll hadharani na katika mawasiliano na wadai alipuuza ukubwa wa uvunjaji—akisema mapema kwamba hakuna PII nyeti iliyoathiriwa. Katika kesi nyingine alizosimamia (k.m., BlockFi), Kroll baadaye alifichua kwamba tarehe za kuzaliwa zilikuwemo kwenye “data isiyo na muundo,” akipingana na kauli zake za awali. Kroll vivyo hivyo aliwaambia wadai wa FTX wangeweza kuendelea kuingiliana na mtiririko wa kazi unaotegemea barua pepe na hakuonya kwamba wahalifu walikuwa wakimuiga Kroll na kubadilisha anwani za barua pepe za wadai kuwa akaunti mpya za ProtonMail ili kushinda 2FA—mifumo iliyothibitishwa na taarifa za kijasusi za vitisho huru. Kauli na uachaji huu ulikuwa muhimu, uliolenga watumiaji, na wa kupotosha, na uliwashawishi wadai wenye busara kudharau hatari, kuendelea kutumia njia za barua pepe pekee, na kuchelewesha marekebisho madhubuti, na hivyo kuchangia hasara ya uhadaa, uharibifu wa thamani ya muda, na kukosa tarehe za mwisho na kusababisha kufutwa kwa madai.
+MADAI YA KESI YA PAMOJA
+
+40. Kundi la Wadai wa Sarafu za Kidijitali Ulimwenguni: Watu wote duniani kote ambao PII au data ya madai yao iliyotolewa kwa Kroll kwa ajili ya kesi za ufilisi za FTX, BlockFi, au Genesis ilifikiwa, kuondolewa, au ilikuwa katika hatari inayofaa katika tukio la Kroll la Agosti 2023. Uanachama wa kundi unaweza kuthibitishwa kutoka kwa orodha za notisi za Kroll, rekodi za EPOC, na sajili za madai za kesi hizo zinazotambua watu ambao data zao Kroll anakiri zilifikiwa au zilikuwa katika hatari inayofaa katika tukio hilo.
+41. Makundi Madogo ya Kesi: (a) Kundi Dogo la FTX; (b) Kundi Dogo la BlockFi; na (c) Kundi Dogo la Genesis. Mlalamikaji ataongeza wawakilishi waliotajwa kwa makundi madogo ya BlockFi na Genesis wakati wa au kabla ya uthibitisho wa kundi.
+42. Makundi Madogo ya Madhara (katika kesi zote): (i) Kundi dogo la uhadaa/hasara ya sarafu za kidijitali; (ii) Kundi dogo la tovuti/uthibitisho/fomu ya kodi (hasara ya kufutwa, hasara ya thamani ya muda, na madhara ya kiutawala); (iii) Kundi dogo la madhara ya kawaida ya uvunjaji wa data (uvamizi wa faragha, gharama za kujikinga).
+43. Wingi, mfanano, uwakilishi, na utoshelevu vimetimizwa: maswali ya pamoja yanajumuisha iwapo Kroll alikuwa na na alikiuka wajibu wa usalama wa data, utoshelevu wa notisi, na usimamizi wa mchakato wa madai; iwapo utoaji notisi kwa barua pepe pekee ulikuwa wa busara baada ya uvunjaji; na iwapo amri ya zuio inafaa.
+UCHAGUZI WA SHERIA
+
+44. Viwango vinavyodhibiti mwenendo vinatawaliwa na sheria ya New York (Kroll ana makao makuu na alitenda kutoka NY), au vinginevyo sheria ya Texas kwa wakaazi na madhara ya Texas. Madai yanategemea wajibu/vitendo vinavyofanana kwa wanachama wote wa kundi. Masuala ya usuluhishi yanatawaliwa na FAA; sera ya umma ya New York inakataza msamaha wa kimkataba wa uzembe mkubwa.
+SABABU ZA KESI
+KOSA LA I
+Uzembe (sheria ya New York; vinginevyo sheria ya Texas)
+
+45. Kroll alikuwa na wajibu kwa Mlalamikaji na Makundi (FTX, BlockFi, na Genesis) wa kutumia uangalifu unaofaa katika kukusanya, kuhifadhi, kusambaza, na kusimamia PII na data ya madai ya wadai; kubuni, kuendesha, na kusaidia mtiririko wa kazi wa uthibitisho/fomu ya kodi unaofanya kazi; na—hasa baada ya tukio la Agosti 19, 2023—kutoa notisi zilizohesabiwa ipasavyo, chini ya hali zote, kuwajulisha wadai kuhusu tarehe za mwisho na hatua zinazoathiri haki na kupunguza hatari zinazoweza kutabirika za uhadaa na uwasilishaji.
+46. Wajibu huo ulitokana na (a) majukumu ya Kroll kama wakala wa notisi/madai aliyeteuliwa na mahakama na Mshauri wa Usimamizi; (b) amri za mahakama za kufunga PII za wadai wa sarafu za kidijitali kwa sababu ya hatari zinazojulikana za uhadaa na usalama wa kimwili; (c) ufahamu na maonyo ya Kroll mwenyewe kwamba barua pepe za wadai zilizofichuliwa zingelengwa kwa uhadaa; na (d) udhibiti wa Kroll juu ya mawasiliano ya wadai na upokeaji wa EPOC; kwa kiwango ambacho shirika lisilo la Kroll lilidhibiti alama za hali ya KYC na uzuiaji wa fomu ya kodi ndani ya Tovuti ya FTX, Mlalamikaji anawasilisha madai hayo kwa njia mbadala dhidi ya Washtakiwa Wasiojulikana watakaobadilishwa watakapotambuliwa. Wajibu huu ni huru kutoka kwa mkataba wowote na unatambuliwa chini ya sheria za New York na Texas ambapo mwenendo wa mhusika huunda au huongeza hatari inayoweza kutabirika ya wizi wa utambulisho/mali kwa kundi linalojulikana, lenye ukomo (wadai wa sarafu za kidijitali wenye PII zilizofungwa), na ambapo uchaguzi wa notisi na mchakato baada ya uvunjaji unatawaliwa na kanuni za mchakato wa haki (k.m., Mullane; Jones v. Flowers) na amri za faragha/notisi za mahakama ya ufilisi.
+47. Kroll alikiuka wajibu wake kwa, miongoni mwa mambo mengine: (i) kuruhusu udukuzi uliowezeshwa na ubadilishaji wa SIM kadi wa hifadhi za wingu zilizokuwa na data ya wadai; (ii) kushindwa kutambua haraka na kikamilifu hifadhi zote za data zilizoathiriwa; (iii) kuendelea—baada ya uvunjaji—na notisi ya barua pepe pekee kwa mawasiliano yanayoathiri haki ingawa wadai wengi hawakuweza kutofautisha barua pepe halali za Kroll na uhadaa na ingawa Kroll alikuwa na uwezo na mfano wa kutuma Barua ya Daraja la Kwanza; (iv) kuruhusu mtiririko wa kazi wa mgao ambapo upakiaji wa W-9/W-8BEN ulizuiwa isipokuwa KYC ilionyesha “Imethibitishwa” katika Tovuti ya FTX, huku akishindwa kutoa njia ya uwasilishaji ya mikono/mbadala kupitia EPOC ya Kroll au kwa barua/barua pepe; (v) kushindwa kutoa njia yoyote ya uwasilishaji ya mikono/mbadala au uthibitisho wa barua kwa mabadiliko ya hali; (vi) kutoa msaada wa kurudia, uliochelewa, au usiofaa ambao ulirefusha na kuzidisha madhara; (vii) kushindwa, baada ya uvunjaji, kutekeleza uimarishaji wa udhibiti wa mabadiliko (nambari ya siri iliyotumwa kwa barua kwa anwani ya zamani kwa mabadiliko yoyote ya barua pepe/simu; vipindi vya lazima vya kusubiri; ukaguzi wa mikono wa mabadiliko kwenda kwa akaunti za ProtonMail zilizoundwa baada ya Novemba 2022) licha ya ushahidi wa mifumo ya utekaji wa barua pepe dhidi ya wadai; na (viii) kushindwa kutumia ufuatiliaji wa wavuti wa giza na uondoaji wa tovuti za kuiga zinazohusiana na maneno muhimu ya madai ya FTX/Kroll baada ya matoleo ya seti za data za wadai kuonekana mtandaoni.
+48. Hatari ambazo Kroll aliziumba na kushindwa kuzipunguza ziliweza kutabirika: mahakama za shirikisho katika kesi za sarafu za kidijitali zilikuwa zimefunga PII za wateja ili kuzuia uhadaa na mashambulizi ya kimwili; utekelezaji wa sheria za shirikisho na miongozo ya usalama inawaonya wamiliki wa mali za kidijitali kuweka taarifa za utambulisho faraghani; na Kroll mwenyewe aliwaambia wadai kwamba washambuliaji wangetuma barua pepe za kushawishi ili kuteka akaunti na pochi. Chini ya hali hizi, barua pepe pekee kwa hatua na tarehe za mwisho muhimu kwa haki haikuwa ya busara.
+
+49. Vitendo na uachaji wa Kroll vilikuwa sababu ya moja kwa moja na ya karibu ya majeraha ya Mlalamikaji na wanachama wa kundi. Kama si kushindwa kwa usalama wa Kroll, notisi ya barua pepe pekee, kukataa kutuma barua ya posta kwa tarehe za mwisho za Pingamizi la 130 la Pamoja na tarehe ya mwisho ya fomu ya kodi, na tovuti iliyovunjika, iliyozuiliwa, Mlalamikaji na wanachama wengi wa kundi wangeanza na kukamilisha uthibitisho kwa wakati na kuwasilisha fomu za kodi; wasingekuwa na madai yaliyofutwa au kuwekwa “kusubiri” na hivyo kuchelewesha mgao wa mpango; na wangeepuka hasara za uhadaa na gharama za kujikinga.
+50. Mlalamikaji na Makundi walipata fidia ikiwemo, bila kikomo: (a) hasara za uhadaa/sarafu za kidijitali (kwa Mlalamikaji ETH 1.9 ziliondolewa dakika chache baada ya kupokelewa); (b) uharibifu wa thamani ya muda kutokana na ucheleweshaji wa mgao uliosababishwa na notisi ya barua pepe pekee na kasoro za tovuti; (c) kufutwa/kupoteza dai kuhusiana na kukosa tarehe za mwisho za uthibitisho/fomu ya kodi; (d) gharama za mfukoni (ufuatiliaji, uimarishaji wa kifaa/pochi, upatikanaji wa nyaraka) na muda uliopotea; na (e) kupungua kwa faragha na wizi unaoendelea wa utambulisho na mali.
+51. Mlalamikaji na Makundi wanatafuta fidia ya hasara na matokeo kwa kiasi kitakachothibitishwa mahakamani, pamoja na riba kabla na baada ya hukumu.
+KOSA LA II
+Sheria ya Texas ya Mienendo ya Biashara ya Udanganyifu—Ulinzi wa Mtumiaji (Tex. Bus. & Com. Code § 17.41 et seq.)
+52. Mlalamikaji ni mtumiaji chini ya Tex. Bus. & Com. Code §17.45(4) kwa sababu alitafuta na kutumia huduma—usimamizi wa madai wa Kroll na huduma zinazowakabili wadai zilizonunuliwa kwa manufaa ya Mlalamikaji na Wadeniwa wa FTX/Amana ya Ufufuaji wa FTX—na huduma hizo zilitolewa kwa Mlalamikaji ili kumruhusu kudai na kupokea mgao kwenye dai lake.
+53. Kroll alijihusisha na vitendo vya udanganyifu, ikiwemo: (1) kuwakilisha huduma zilikuwa na sifa/faida ambazo hazikuwa nazo—yaani, kwamba hakuna PII nyeti (k.m., jina kamili, anwani ya posta, tarehe ya kuzaliwa, maelezo ya pochi/miamala) iliyochukuliwa na kwamba michakato ya barua pepe ilikuwa salama baada ya uvunjaji; (2) kushindwa kufichua taarifa zilizojulikana wakati wa miamala (kwamba PII nyeti ilikuwa katika “data isiyo na muundo”; kwamba utekaji wa uigaji/mabadiliko ya barua pepe ulikuwa unaendelea) ili kuwashawishi wadai kuendelea na mtiririko wa kazi wa barua pepe pekee; na (3) kuwakilisha haki/wajibu chini ya mchakato wa madai ambazo hawakuwa nazo—ikidokeza notisi ya barua pepe pekee ilikuwa ya busara na ya kutosha kwa tarehe za mwisho muhimu kwa haki.
+54. Katika kufuatia tukio la usalama linalojulikana na kampeni ya uhadaa inayoendelea, kuendelea na notisi ya barua pepe pekee kwa tarehe za mwisho muhimu kwa haki na kuacha msaada wa posta na njia ya uwasilishaji wa fomu ya kodi ya mikono ilikuwa hatua isiyo ya dhamiri ambayo ilitumia vibaya sana ukosefu wa maarifa wa wadai na kutoweza kujilinda.
+55. Ukiukaji wa DTPA wa Kroll ulikuwa sababu ya kuzalisha uharibifu wa Mlalamikaji, ikiwemo (i) wizi wa ETH 1.9 baada ya uhadaa, (ii) uharibifu wa thamani ya muda/mgao kutokana na uthibitisho uliozuiwa na uwasilishaji wa fomu ya kodi, na (iii) gharama za kujikinga na kupoteza faragha/udhibiti wa PII.
+56. Kroll alitenda kwa kujua, na kwa baadhi ya mambo kwa makusudi: alijua kutoka kwa uchunguzi wake mwenyewe katika kesi nyingine (k.m., BlockFi) kwamba PII nyeti ilikuwepo katika “data isiyo na muundo,” lakini aliwaambia wadai vinginevyo na alishindwa kurekebisha notisi na mtiririko wa kazi ipasavyo.
+57. Mlalamikaji anatafuta fidia ya kiuchumi, ada za wakili, gharama, na fidia mara tatu kwa ukiukaji wa kujua/makusudi chini ya Texas DTPA.
+58. Mlalamikaji ametuma au anatuma wakati huo huo notisi ya kabla ya kesi. Kwa kiwango ambacho notisi haikuwezekana kwa sababu ya ukomo wa karibu na hitaji la amri ya zuio, Mlalamikaji anaomba Mahakama isitishe dai la DTPA kwa siku 60 kutoka kwa huduma ili kuruhusu majadiliano ya suluhu kama inavyotolewa na sheria.
+KOSA LA III
+Vitendo Visivyo vya Haki vya Udanganyifu vya New York (kwa njia mbadala)
+59. Kroll alijihusisha na vitendo na mazoea ya udanganyifu yaliyolenga watumiaji, ikiwemo kutuma notisi za kesi za umma na mawasiliano ya wadai ya udanganyifu, akipuuza uvunjaji (akisema hakuna PII nyeti), akishindwa kufichua ukweli muhimu (PII iliyopo kwenye faili na katika “data isiyo na muundo”; uigaji unaoendelea), na akihimiza mawasiliano ya barua pepe pekee katika mazingira ya uhadaa unaoendelea. Vitendo hivi vilikuwa vya kupotosha kwa njia muhimu na vilimdhuru Mlalamikaji. Mlalamikaji anatafuta fidia halisi, fidia ya kisheria, ada za wakili zinazofaa, na amri ya zuio chini ya Sheria ya Biashara ya Jumla ya New York §§ 349(h) na 350-e.
+KOSA LA IV
+Uzembe Mkubwa
+
+60. Mwenendo wa Kroll ulikuwa zaidi ya uzembe wa kawaida. Akijua PII ya wadai ilikuwa imefichuliwa, na akijua wadai walikuwa wakihadaiwa kikamilifu, Kroll aliendelea kwa makusudi na ujumbe wa barua pepe pekee, wenye viungo vingi, unaoweza kuigwa kwa urahisi kwa tarehe za mwisho zinazoathiri haki; alikataa kubadili kuwa barua ya posta kwa kiwango kikubwa ingawa alikuwa na uwezo na alikuwa ametumia barua kwa mawasiliano mengine muhimu; na aliendelea kuzuia uwasilishaji wa fomu ya kodi nyuma ya tovuti ya madai isiyoaminika ambayo ilibadilisha watumiaji mara kwa mara kati ya “Imethibitishwa” na “Imesitishwa” bila maelezo—hata baada ya taarifa za kijasusi za watu wengine kurekodi uigaji unaoendelea, utekaji wa mabadiliko ya barua pepe, na njia za usafishaji wa fedha kwa kutumia data ya wadai.
+61. Kushindwa kwa Kroll kutumia kinga dhahiri—Barua ya Daraja la Kwanza kwa notisi muhimu kwa haki, uthibitisho wa barua wa mabadiliko ya hali, njia ya fomu ya kodi ya mikono isiyozuiliwa, uimarishaji wa udhibiti wa mabadiliko (nambari za siri zilizotumwa kwa anwani iliyopo; vipindi vya kusubiri; ukaguzi wa mikono wa mabadiliko kwenda kwa akaunti za ProtonMail zilizoundwa hivi karibuni), na ufuatiliaji wa wavuti wa giza—ilikuwa ni kuondoka kupita kiasi kutoka kwa uangalifu wa kawaida mbele ya uwezekano mkubwa wa madhara makubwa kwa idadi ya watu ambao PII zao zilifungwa hasa ili kuepuka uhadaa na ulengaji wa kimwili.
+62. Mwenendo wa uzembe mkubwa wa Kroll ulikuwa sababu kubwa katika kusababisha majeraha ya Mlalamikaji na Makundi na unaunga mkono tuzo ya fidia ya adhabu ili kuadhibu na kuzuia mwenendo kama huo.
+
+63. Mlalamikaji na Makundi wanatafuta fidia ya adhabu kwa kiasi cha kutosha kuonyesha lawama ya mwenendo wa Kroll na kuzuia ukiukaji wa baadaye.
+KOSA LA V
+Ukiukaji wa Mkataba Uliodokezwa (Faragha & Usimamizi wa Madai)
+
+64. Kwa kuomba na kukubali PII na mawasilisho ya madai ya Mlalamikaji na wanachama wa kundi na kwa kuwataka watumie Tovuti ya FTX (KYC/ukaguzi) na EPOC ya Kroll (uwasilishaji wa dai) kushiriki katika mchakato wa madai ya ufilisi, Kroll aliingia katika mikataba iliyodokezwa ya (a) kulinda taarifa hizo kwa usalama unaofaa, (b) kusimamia hatua za uthibitisho na fomu ya kodi kwa uangalifu unaofaa, na (c) kutoa njia zilizoundwa ipasavyo kuhakikisha wadai wanaweza kukamilisha hatua zinazoathiri haki.
+65. Mlalamikaji na wanachama wa kundi walitekeleza kwa kutoa taarifa sahihi na kufuata maagizo ya Kroll. Walitarajia kwa busara Kroll angelinda data zao na kutoa mchakato unaofanya kazi, salama wa kukamilisha uthibitisho na kupakia fomu za kodi.
+66. Kroll alikiuka ahadi hizi zilizodokezwa kwa kuruhusu ufikiaji usioidhinishwa wa data ya wadai; kwa kuendelea kutumia notisi za barua pepe pekee katika mazingira ya uhadaa yanayojulikana; kwa kuendelea na mtiririko wa kazi wenye kasoro, uliozuiliwa bila njia mbadala; na kwa kushindwa kutoa chaguo la uwasilishaji la mikono, lisilozuiliwa au uthibitisho wa barua kwa mabadiliko ya hali yanayoathiri haki.
+67. Kama matokeo ya moja kwa moja na ya karibu, Mlalamikaji na wanachama wa kundi walipata uharibifu ulioelezwa hapo juu, ikiwemo hasara ya uhadaa, uharibifu wa thamani ya muda na mgao, na gharama za mfukoni.
+68. Mlalamikaji na Makundi wanatafuta fidia, urejeshaji, na nafuu nyingine zote zinazofaa kwa ukiukaji wa Kroll wa mkataba uliodokezwa.
+KOSA LA VI
+Jukumu la Uzembe (Restatement (Second) of Torts § 324A)
+
+69. Kroll alijitolea kutoa huduma alizojua ni muhimu kwa ulinzi wa Mlalamikaji na Makundi—yaani, kulinda PII ya wadai na kusimamia mtiririko wa kazi wa uthibitisho/fomu ya kodi na notisi zinazoathiri haki.
+70. Kroll alitekeleza jukumu hilo kwa uzembe kwa kutumia notisi ya barua pepe pekee baada ya uvunjaji; kukataa kutuma barua ya posta kwa tarehe za mwisho za Pingamizi la 130 la Pamoja na tarehe ya mwisho ya fomu ya kodi; kuzuia uwasilishaji wa fomu ya kodi nyuma ya mtiririko wa kazi usioaminika, unaodhibitiwa na hali; na kushindwa kutoa njia mbadala au uthibitisho wa barua.
+71. Utekelezaji wa uzembe wa Kroll uliongeza hatari ya madhara kwa Mlalamikaji na wanachama wa kundi (notisi zilizokosekana au kupuuzwa, kufungiwa kwa mabadiliko ya hali, uhadaa) na ilikuwa sababu kubwa katika hasara zilizotokea.
+72. Mlalamikaji na wanachama wengi wa kundi walitegemea jukumu la Kroll—wakitumia Tovuti ya FTX na mawasiliano/EPOC ya wadai ya Kroll kama walivyoelekezwa na kuacha hatua nyingine kwa sababu Kroll alikuwa njia ya kipekee ya uthibitisho na usimamizi wa madai.
+73. Mlalamikaji na Makundi wana haki ya kupata fidia iliyosababishwa moja kwa moja na jukumu la uzembe la Kroll.
+KOSA LA VII
+Notisi ya Uzembe Baada ya Uvunjaji na Uchakataji wa Madai
+
+74. Baada ya tukio la Agosti 19, 2023, Kroll alikuwa na wajibu ulioongezeka wa kupunguza madhara yanayoweza kutabirika na kutoa notisi na marekebisho ya mchakato yaliyohesabiwa ipasavyo kuwafikia wadai na kuwezesha utii wa wakati kwa hatua zinazoathiri haki.
+75. Kroll alikiuka wajibu huo kwa kuendelea kutegemea notisi ya barua pepe pekee—licha ya uhadaa ulioenea na uchujaji wa barua taka unaolenga barua pepe zinazofanana na za Kroll—na kwa kushindwa kubadili kuwa barua ya posta kwa mawasiliano muhimu zaidi, ikiwemo tarehe za mwisho za Pingamizi la 130 la Pamoja la FTX (kuanza ifikapo Machi 1, 2025 na kukamilisha ifikapo Juni 1, 2025) na tarehe ya mwisho ya fomu ya kodi. Mpango uliothibitishwa haukuwa na tarehe maalum katika maandishi ya mpango; kwa hivyo, uchaguzi wa njia wa Kroll ulifanya notisi hizo kuwa za kuamua matokeo. Wadai wengi wenye busara hawakufungua barua pepe za Kroll kwa sababu kufanya hivyo kulihisi kama “kamari ya Kirusi” wakati wa kampeni za uhadaa zinazoendelea; notisi nyingi ziliishia kwenye folda za barua taka/spam na hazikuonekana.
+76. Kwa kujitegemea, FTX iliendesha tovuti iliyozuia uwasilishaji wa W-9/W-8BEN isipokuwa “KYC Imethibitishwa,” lakini mfumo ulibadilisha kimakosa watumiaji waliothibitishwa kurudi kuwa “Imesitishwa/Haijathibitishwa,” bila ubatilishaji wa mikono, bila uthibitisho wa barua wa mabadiliko ya hali, na bila njia mbadala ya uwasilishaji—ikihakikisha kutotii kunakoweza kuepukika.
+77. Mawasiliano ya usaidizi ya Kroll yalizidisha kushindwa huku—yakitoa ujumbe wa kawaida wa “jaribu tena” na “umerekebishwa,” yakiwaelekeza wadai kwenye visanduku vingine vya barua, na kutotoa suluhu ya kudumu—huku tarehe za mwisho za kufutwa na fomu ya kodi zikikaribia.
+78. Kroll alipotosha kwamba PII nyeti haikuhusika na baadaye alikiri tarehe za kuzaliwa katika “data isiyo na muundo” katika kesi nyingine ya sarafu za kidijitali (BlockFi), na hivyo kupunguza umakini na kuongeza mafanikio ya uhadaa.
+79. Kama matokeo ya moja kwa moja na ya karibu ya notisi na uchakataji wa madai wa uzembe wa Kroll, Mlalamikaji na wanachama wa kundi walikosa au hawakuweza kukamilisha mahitaji ya uthibitisho na fomu ya kodi ambayo wangekuwa wametimiza, walipata hasara za uhadaa, na walipata uharibifu wa thamani ya muda na kiutawala.
+80. Mlalamikaji na Makundi wanatafuta fidia kwa majeraha haya na tamko kwamba mazoea ya notisi/uchakataji baada ya uvunjaji ya Kroll hayakuwa ya busara na yalikuwa kinyume cha sheria chini ya hali hizo.
+81. Mlalamikaji na Makundi wanatafuta zaidi amri ya zuio inayohitaji notisi ya njia nyingi (barua pepe na barua ya daraja la kwanza yenye URL/nambari za kipekee zilizochapwa), uthibitisho wa barua kwa mabadiliko yoyote ya hali yanayoathiri haki, vipindi vya suluhu vilivyobainishwa kabla ya kufutwa, na njia ya mikono/mbadala ya uthibitisho na uwasilishaji wa fomu ya kodi. Kroll anaendelea kusimamia mawasiliano na rekodi zinazowakabili wadai zinazohusiana na kesi hizi, kwa hivyo hatari ya jeraha la baadaye inaendelea bila kinga zilizoamriwa na mahakama.
+KOSA LA VIII
+Upotoshaji wa Uzembe (kauli za mchakato baada ya uvunjaji)
+
+82. Kroll, katika mawasiliano baada ya uvunjaji, aliwakilisha kwamba makosa ya uthibitisho yalikuwa “yamerekebishwa,” kwamba wadai wanapaswa “kujaribu tena,” au kwamba hali ilikuwa “Imethibitishwa,” wakati mfumo uliendelea kurudi kuwa Imesitishwa/Haijathibitishwa na kuzuia uwasilishaji wa fomu ya kodi. Jukumu la Kroll kama wakala wa madai/notisi aliyeteuliwa na mahakama na Mshauri wa Usimamizi lilimweka katika nafasi ya kipekee na ya kuaminika ya kupata taarifa za wadai na udhibiti wa mchakato, na hivyo kuunda uhusiano maalum wa kutosha kuunga mkono dhima ya upotoshaji wa uzembe.
+83. Kroll alitoa taarifa hii katika kutekeleza majukumu yake ya kitaalamu ya usimamizi na alishindwa kutumia uangalifu unaofaa. Mlalamikaji na wanachama wa kundi walitegemea kwa haki kwa kuendelea na mtiririko wa kazi uleule uliovunjika na kuacha njia mbadala za kuongeza, na kusababisha kukosa tarehe za mwisho, hasara za thamani ya muda, na kufutwa.
+84. Mlalamikaji anatafuta fidia iliyosababishwa moja kwa moja na utegemezi huu.
+
+KOSA LA IX
+Utajirishaji Usio wa Haki (kwa njia mbadala)
+
+85. Kroll alipokea fidia kubwa kwa kutumika kama wakala wa notisi/madai na Mshauri wa Usimamizi katika kesi zote za sarafu za kidijitali huku akihamishia gharama na hatari za usalama wake duni na usimamizi baada ya uvunjaji kwa wadai.
+86. Itakuwa si sawa kwa Kroll kubaki na faida hizo bila kulipa fidia kwa hasara alizosababisha na bila kufadhili hatua za kurekebisha (ikiwemo ufuatiliaji, maboresho ya usalama, utoaji notisi upya, na kufungua upya madirisha ya uwasilishaji).
+
+87. Mlalamikaji anadai utajirishaji usio wa haki kama njia mbadala ya madai yake ya mkataba na dhuluma kwa kiwango ambacho Mahakama itapata hakuna mkataba unaoweza kutekelezwa unaotawala wajibu wa Kroll kwa wadai.
+88. Mlalamikaji na Makundi wanatafuta urejeshaji na kunyang'anywa faida zilizopatikana isivyo halali na upunguzaji wa ada unaolingana na madhara yaliyosababishwa.
+KOSA LA X
+Amri ya Tamko na Zuio (28 U.S.C. §§ 2201-02)
+
+89. Mzozo halisi, unaoweza kuamuliwa na mahakama upo kuhusu wajibu unaoendelea wa Kroll wa kulinda data ya wadai, kutoa notisi ya kutosha ya hatua zinazoathiri haki, na kuendesha mchakato wa uthibitisho/fomu ya kodi unaofanya kazi ambao hauwazuii kiholela wadai wanaotii.
+90. Mlalamikaji anatafuta tamko kwamba notisi ya barua pepe pekee ya Kroll baada ya uvunjaji na tovuti iliyozuiliwa haikuwa ya busara chini ya hali hizo na kwamba Kroll lazima atumie michakato iliyohesabiwa ipasavyo kuwafikia na kuwalinda wadai kwenda mbele.
+91. Mlalamikaji pia anatafuta amri ya zuio ya kudumu inayomtaka Kroll, kwa si chini ya miaka mitatu (3), kutekeleza: (a) notisi ya njia nyingi (barua pepe na Barua ya Daraja la Kwanza) kwa tarehe yoyote ya mwisho inayoathiri haki, na URL/nambari za ufikiaji za kipekee zilizochapwa na hakuna viungo vinavyoweza kubonyezwa; (b) uthibitisho wa barua wa mabadiliko yoyote ya hali ya uthibitisho na dirisha la suluhu la angalau siku 30 kabla ya kufutwa au kupoteza; (c) uimarishaji wa udhibiti wa mabadiliko: nambari za siri za matumizi moja zilizotumwa kwa anwani ya posta iliyopo kabla ya mabadiliko yoyote ya barua pepe/simu kuanza kutumika; (d) kipindi cha kusubiri cha siku 14 kwa mabadiliko ya njia ya mawasiliano isipokuwa imethibitishwa na nambari ya siri iliyotumwa kwa barua; (e) ukaguzi wa mikono wa mabadiliko kwenda kwa ProtonMail iliyoundwa hivi karibuni au vikoa vingine vya hatari kubwa; (f) njia ya mikono/mbadala ya kukamilisha uthibitisho na kuwasilisha W-9/W-8BEN ambayo haizuiliwi na alama za tovuti, na SLA ya kuongeza iliyochapishwa (kuongeza kwa siku 5 za kazi; suluhu kwa siku 10 za kazi); (g) kumbukumbu za ukaguzi zisizobadilika za mabadiliko ya hali na ubatilishaji wa ukaguzi wa kibinadamu; (h) vidhibiti vya kiwango cha sekta vya uwasilishaji na kuzuia udanganyifu (vikoa maalum, utekelezaji wa DMARC/SPF/DKIM, nidhamu ya ufuatiliaji wa viungo, uondoaji wa vikoa vya kuiga vinavyohusiana na maneno muhimu ya FTX/Kroll/madai); (i) ukaguzi huru wa kila mwaka wa usalama, uwasilishaji, na mtiririko wa kazi wa tovuti na ripoti zinazopatikana kwa Mahakama; na (j) ufuatiliaji wa mkopo/kitambulisho na akaunti ya sarafu za kidijitali uliofadhiliwa na mpango wa ulipaji wa hasara ya uhadaa kwa wadai walioathirika.
+92. Nafuu iliyoombwa itazuia madhara ya baadaye ambayo fidia pekee haiwezi kurekebisha, itahakikisha ufikiaji wa haki wa mgao, na italinganisha mazoea ya Kroll na hatari zinazoweza kutabirika za kipekee kwa wadai wa sarafu za kidijitali.
+93. Mlalamikaji na Makundi wanakosa suluhu ya kutosha kisheria kwa majeraha ya baadaye yanayoshughulikiwa na amri za zuio zilizoombwa; nafuu ya kifedha haiwezi kuhakikisha usimamizi wa wakati, salama, na ufanisi wa wajibu unaoendelea wa wadai.
+94. Usawa wa haki na maslahi ya umma unapendelea amri ya zuio kwa sababu inalinda haki za maelfu ya wadai kusikilizwa na kupokea mgao bila hatari isiyofaa ya ulaghai au kufutwa kunakosababishwa na michakato yenye kasoro.
+95. Mlalamikaji na Makundi pia wanatafuta ada na gharama zao za wakili zinazofaa kwa kiwango kinachoruhusiwa na sheria, ikiwemo chini ya mafundisho ya mfuko wa pamoja/faida ya pamoja na mamlaka ya usawa ya Mahakama.
+USULUHISHI/MSAMAHA WA KESI YA PAMOJA
+96. Tovuti ya FTX si “Tovuti” ya Kroll kama ilivyofafanuliwa katika Masharti ya Matumizi ya Kroll. Mlalamikaji hakukubali katika Tovuti ya FTX Masharti yoyote ya Kroll. Tovuti ya FTX ilikuwa na idhini ya usindikaji wa data ya FTX pekee; haikuonyesha Masharti yoyote ya Kroll, hakuna usuluhishi, na hakuna msamaha wa kesi ya pamoja. Kwa kiwango ambacho Kroll anaelekeza kwenye kibofyo tofauti kwenye EPOC yake au Tovuti ya Kroll, kifungu hicho ni chembamba na cha hiari, kinachotumika tu kwa mizozo “inayotokana na au inayohusiana na Masharti haya au Tovuti yetu,” na hakuna kifungu cha ugawaji—kwa hivyo Mahakama hii inaamua uwezekano wa usuluhishi. Madai ya Mlalamikaji yanatokana na usimamizi ulioteuliwa na mahakama wa Kroll na wajibu wa usalama wa data (uvunjaji wa M365; njia za notisi baada ya uvunjaji; ukosefu wa njia ya fomu ya kodi isiyozuiliwa), ambayo ipo kwa kujitegemea na matumizi yoyote ya tovuti na iko nje ya kifungu chochote kilichowekewa mipaka ya tovuti. Vinginevyo, kutoa usuluhishi/msamaha wa kesi ya pamoja kama sharti la kuwasilisha Fomu 410 ya shirikisho ni jambo lisilo la dhamiri kiutaratibu; na chini ya sera ya umma ya New York, uzembe mkubwa hauwezi kusamehewa kimkataba. Lugha ya “msingi wa mtu binafsi” ya Masharti imefungwa kwa usuluhishi; hakuna msamaha wa kesi ya pamoja unaojitegemea mahakamani. Kipengele cha Mpango cha Tukio la Usalama la Kroll kinathibitisha haya ni madai huru ya dhuluma ya mtu wa tatu yanayotarajiwa kuendelea ‘katika shauri lingine,’ na kudhoofisha nadharia yoyote ya asiye saini.
+MAOMBI YA MSAADA
+KWA HIYO, Mlalamikaji, kibinafsi na kwa niaba ya wanachama wengine wa Makundi yaliyopendekezwa katika Malalamiko haya, anaomba kwa heshima kwamba Mahakama itoe hukumu kwa niaba yao na dhidi ya Mshtakiwa, kama ifuatavyo:
+A. Kwa Amri ya kuidhinisha kesi hii kama kesi ya pamoja na kumteua Mlalamikaji na wakili wake kuwakilisha Makundi;
+B. Kwa nafuu ya usawa inayohitaji urejeshaji na kunyang'anywa mapato yaliyohifadhiwa isivyo halali kwa sababu ya mwenendo mbaya wa Mshtakiwa;
+C. Kwa tuzo ya fidia halisi, fidia ya hasara, fidia ya kisheria, na adhabu za kisheria, kwa kiasi kitakachoamuliwa, kama inavyoruhusiwa na sheria;
+D. Kwa tuzo ya fidia ya adhabu, kama inavyoruhusiwa na sheria;
+
+E. Suluhu za Texas DTPA: fidia ya kiuchumi, fidia mara tatu kwa ukiukaji wa kujua/makusudi, na ada za wakili zinazofaa na za lazima (DTPA § 17.50(d));
+F. New York GBL §§ 349/350 (mbadala): fidia ya kisheria na ada za wakili;
+
+G. Kwa tuzo ya ada za wakili na gharama, na matumizi mengine, ikiwemo ada za mashahidi wataalam;
+H. Riba kabla na baada ya hukumu juu ya kiasi chochote kitakachotolewa; na
+
+I. Nafuu nyingine na zaidi kama mahakama hii itakavyoona ni haki na sahihi.
+
+Tarehe: Agosti 19, 2025
+Imewasilishwa kwa heshima,
+HALL ATTORNEYS, P.C.
+Na: /s/ Nicholas Andrew Hall
+Nicholas Andrew Hall Nambari ya Baa ya Jimbo 24069863 nhall@hallattorneys.com
+P.O. Box 1370
+Edna, Texas 77957
++1 713 428 8967
+
+WAKILI WA MLALAMIKAJI NA MAKUNDI YANAYOKUSUDIWA

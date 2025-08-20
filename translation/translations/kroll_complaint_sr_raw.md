@@ -1,0 +1,214 @@
+U OKRUŽNOM SUDU SJEDINJENIH AMERIČKIH DRŽAVA ZA ZAPADNI OKRUG TEKSASA, ODELJENJE U OSTINU
+
+JACOB KEVYN REPKO, lično i u ime svih drugih lica u sličnoj situaciji,
+
+Tužilac,
+
+v.
+
+KROLL RESTRUCTURING
+ADMINISTRATION LLC (ranije poznat kao Prime Clerk LLC),
+
+Tuženi.
+
+)
+) Broj predmeta: 1:25-cv-01319
+)
+)
+)
+) KOLEKTIVNA TUŽBA
+)
+)
+)
+) ZAHTEVA SE SUĐENJE PRED POROTOM
+)
+)
+)
+
+KOLEKTIVNA TUŽBA
+
+Tužilac Jacob Kevyn Repko („Tužilac“), lično i u ime svih drugih lica u sličnoj situaciji, preko dole potpisanih punomoćnika, ovim podnosi sledeće navode protiv Tuženog Kroll Restructuring Administration LLC (ranije poznat kao Prime Clerk LLC) („Kroll“ ili „Tuženi“). Na osnovu ličnog saznanja, kao i informacija i uverenja, Tužilac konkretno navodi sledeće:
+PRIRODA TUŽBE
+
+1.  Ovo je kolektivna tužba zbog povrede podataka i nesavesnog upravljanja koja proizilazi iz bezbednosnog incidenta kompanije Kroll od 19. avgusta 2023. godine i njenog naknadnog neuspeha da sa razumnom pažnjom upravlja procesima i obaveštenjima namenjenim poveriocima u tri velika stečaja kripto kompanija — FTX, BlockFi i Genesis.
+2.  Povreda podataka od strane Krolla otkrila je (između ostalog) imena, adrese, adrese e-pošte, brojeve telefona, identifikatore/iznose potraživanja i kopije obrazaca za prijavu potraživanja — upravo metapodatke koje kriminalci koriste za ciljanje žrtava u kripto svetu putem fišing i „wrench“ napada.
+3.  Nakon povrede podataka, Kroll je nastavio da šalje ključna obaveštenja isključivo putem e-pošte (uključujući 130. Omnibus prigovor FTX-a, verifikaciju potraživanja i rokove za poreske obrasce), uprkos (a) široko rasprostranjenim fišing napadima sa lažnim predstavljanjem koji su mnoge poverioce naučili da izbegavaju otvaranje e-poruka od „Krolla“ i (b) Krollovoj
+
+dokazanoj sposobnosti da šalje pisma prvoklasnom poštom USPS-a kada je to odlučio — npr. u slučaju Genesis, gde je Kroll slao obaveštenja o povredi podataka prvoklasnom poštom. 4. Federalni stečajni sudovi su zapečatili lične podatke za identifikaciju (LPI) poverilaca upravo da bi sprečili zločine usmerene na vlasnike kriptovaluta — navodeći stvarne štete viđene u stečaju kompanije Celsius (fišing i „wrench“ napadi). Sudski spisi u slučaju Genesis beleže ove zabrinutosti u nalozima kojima se zapečaćuju podaci o klijentima. 5. Tužilac Jacob Kevyn Repko (Dripping Springs, Teksas) podneo je prijavu potraživanja kao klijent FTX-a, a zatim je 24. avgusta 2023. primio Krollovo obaveštenje o povredi podataka. Njegovi LPI i podaci o potraživanju bili su među kompromitovanim podacima. 6. U mesecima koji su usledili, Portal za potraživanja klijenata FTX-a („FTX Portal“) je više puta imao kvarove: Tužiočev KYC (Poznaj svog klijenta) status je pokazivao „Verifikovan“, a zatim se vraćao na „Na čekanju/Neverifikovan“, sprečavajući ga da otpremi IRS obrazac (W-9) neophodan za primanje isplata, uprkos desetinama e-poruka upućenih podršci. 7. Budući da FTX Portal uslovljava otpremanje poreskog obrasca statusom „KYC Verifikovan“, Tužilac ne može da ispuni konačne preduslove; prema potvrđenom planu i komunikacijama fonda, potraživanja mogu biti izbrisana ili isplate oduzete ako poreski obrasci nisu blagovremeno otpremljeni. 8. Tužilac je takođe pretrpeo direktan gubitak usled fišinga nakon povrede podataka: prebacio je 1,9 ETH sa menjačkog računa na svoj vrući novčanik u 12:43 časova 3. jula 2025. godine, a sredstva su preusmerena putem automatizovanog transakcionog bota koji se obično koristi za presretanje transfera u toku na novčanik koji nije pod kontrolom Tužioca, što je u skladu sa Krollovim sopstvenim upozorenjem da će napadači koristiti procurele podatke za fišing napade na kripto račune.
+STRANKE 9. Tužilac Jacob Repko je fizičko lice sa prebivalištem u okrugu Hays, Teksas. On je klijent-poverilac FTX-a sa prijavljenim potraživanjem od 87.487,93 $.
+
+10. Tuženi Kroll Restructuring Administration LLC je društvo sa ograničenom odgovornošću iz Delavera sa značajnim poslovanjem širom zemlje, uključujući kancelarije u Teksasu.
+11. Na osnovu saznanja i uverenja, Tužilac takođe tuži NN lica 1-5, trenutno neidentifikovane entitete koji nisu Kroll, a koji su učestvovali, ako su uopšte učestvovali, u verifikaciji ili prijemu poreskih obrazaca namenjenih podnosiocima potraživanja (uključujući treće strane kao pružaoce KYC usluga). U meri u kojoj je bilo koji entitet koji nije Kroll kontrolisao statusne oznake KYC ili uslovljavanje otpremanja W-9/W-8 obrazaca unutar FTX Portala, Tužilac podnosi te navode alternativno i izmeniće tužbu i zameniti ih pravim imenima kada budu identifikovani. Ako Kroll imenuje bilo koju odgovornu treću stranu, Tužilac će blagovremeno pridružiti takvu stranu u skladu sa teksaškim pravilima o srazmernoj odgovornosti.
+    NADLEŽNOST I MESNA NADLEŽNOST
+
+12. Ovaj Sud ima stvarnu nadležnost prema 28 U.S.C. § 1332(d) (CAFA): predložene klase premašuju 100 članova; ukupan iznos spora premašuje 5.000.000 $; postoji minimalna raznolikost (tužilac iz Teksasa protiv tuženog iz Delavera/Njujorka sa članovima klase širom zemlje/sveta).
+13. Ovaj Sud ima ličnu nadležnost nad Krollom jer Kroll održava kancelarije u Ostinu, Dalasu i Hjustonu, namerno usmerava administrativne/obaveštajne poslove i komunikaciju sa podnosiocima potraživanja u Teksas, i počinio je radnje koje su prouzrokovale štetu stanovniku Teksasa u ovom Okrugu. Tužiočevi zahtevi proizilaze iz ili su u vezi sa tim ponašanjem na teritoriji suda, a vršenje nadležnosti je u skladu sa pravom na pravično suđenje.
+14. Mesna nadležnost je pravilno zasnovana prema 28 U.S.C. § 1391(b) jer se značajan deo događaja i šteta dogodio u ovom Okrugu: Tužilac ovde boravi, ovde je primao Krollova obaveštenja, ovde je koristio Portal za potraživanja klijenata FTX-a (claims.ftx.com) a zatim i Krollov Elektronski dokaz o potraživanju („EPOC“), i ovde je pretrpeo gubitak usled fišinga.
+15. U ovom trenutku, Tužilac ne podnosi tužbe protiv Dužnika, niti bilo koje strane oslobođene obaveza po planu, i ne traži pravnu zaštitu koja zahteva tumačenje, izmenu ili sprovođenje Plana ili
+
+Naloga o potvrdi. Ovo su nezavisne tužbe za deliktnu/ugovornu odgovornost protiv Krolla koji nije dužnik. Ova tužba nije osnovni postupak; Tužilac zahteva suđenje pred porotom i ne pristaje na stečajno odlučivanje.
+DEFINICIJE
+
+16. „Portal za potraživanja klijenata FTX-a“ ili „FTX Portal“ označava portal na adresi claims.ftx.com kojim upravljaju Dužnici/FTX Recovery Trust (sa dobavljačima) radi obrade KYC/AML i pregleda računa. „Kroll Sajt“ označava Krollovu veb stranicu, uključujući EPOC interfejs na restructuring.ra.kroll.com, koja je primala podneske stečajnog Obrasca 410 i održavala javni registar potraživanja. Tamo gde kontrola nije jasna, Tužilac podnosi navode alternativno protiv NN Tuženih koji će biti zamenjeni kada budu identifikovani.
+    ČINJENIČNI NAVODI
+
+A. Krollova povreda podataka obuhvatila je FTX, Genesis i BlockFi
+
+17. Dana 19. avgusta 2023. ili približno tog datuma, napadač je izvršio SIM-zamenu telefona zaposlenog u Krollu, pristupivši Krollovim cloud datotekama sa podacima o podnosiocima potraživanja za svaku stečajnu masu. Nezavisni obaveštajni podaci o pretnjama potvrđuju da su kompromitovana polja kasnije monetizovana i operacionalizovana od strane prevaranata koji su ciljali podnosioce potraživanja FTX-a i transakcije na sekundarnom tržištu.
+18. Krollov podnesak u slučaju Genesis priznaje da su pogođeni podaci uključivali imena, brojeve telefona, adrese, brojeve/iznose potraživanja, stanja na novčanicima/koinima i kopije dokaza o potraživanju.
+19. Obaveštenje kompanije BlockFi dalje detaljno navodi da su bili uključeni datum rođenja, poštanska adresa i brojevi vozačkih dozvola i opisuje Krollovo odloženo identifikovanje velike tranše „Nestrukturiranih datoteka“.
+    B. Sudovi su zapečatili LPI poverilaca jer se kripto poverioci suočavaju sa jedinstvenim vektorima napada
+
+20. U slučaju Genesis, sud je izdao naloge o zapečaćenju štiteći imena/kontakt informacije poverilaca, pozivajući se na iskustvo iz slučaja Celsius gde su fišing i „wrench“ napadi usledili nakon javnih objava.
+    C. Kroll je znao da e-pošta nije bezbedna, ali nije koristio poštansku službu za ključna obaveštenja
+
+21. Na osnovu saznanja i uverenja, Kroll je javno upozorio poverioce u slučaju Genesis na fišing i poslao obaveštenja o povredi podataka prvoklasnom poštom kako bi osigurao dostavu.
+22. Ipak, u slučaju FTX, za jednako (ili više) važne obaveštenja — uključujući rokove za 130. Omnibus prigovor (npr. započeti KYC do 1. marta 2025; završiti do 1. juna 2025) i rok za poreske obrasce — Kroll se oslanjao prvenstveno na e-poštu samo nekoliko meseci nakon sopstvene povrede podataka koja je izazvala fišing, znajući da mnogi primaoci neće otvarati e-poruke od „Krolla“ iz straha od prevara ili će ih naći u spam/junk folderima. Javni obaveštajni podaci o pretnjama pokazuju preuzimanja naloga putem fišinga gde su počinioci menjali e-adrese podnosilaca potraživanja na nove ProtonMail adrese i brzo prolazili 2FA provere — upravo napad koji Krollov pristup isključivo putem e-pošte nije ublažio.
+23. FTX Portal uslovljava otpremanje W-9/W-8BEN obrazaca verifikacijom KYC. Kada portal greškom vrati korisnika na status „Na čekanju/Neverifikovan“, korak sa poreskim obrascem postaje nemoguć — rizikujući brisanje potraživanja ili oduzimanje isplata prema procesima plana saopštenim poveriocima. U okruženju gde su podnosioci potraživanja naučeni da izbegavaju e-poruke od „Krolla“ zbog aktivnog lažnog predstavljanja, uslovljen, isključivo onlajn korak za poreske obrasce bez rezervne opcije putem prvoklasne pošte nije bio razumno proračunat da obavesti ili omogući završetak.
+24. Nalog o potvrdi plana FTX-a izričito predviđa da Kroll nije oslobođen odgovornosti za potraživanja u vezi sa „Bezbednosnim incidentom“ i da štete klijenata koje se mogu nadoknaditi u drugom postupku nisu ograničene isplatama po planu. Tužilac s poštovanjem traži da se sud upozna sa tim izvodom iz naloga o potvrdi prema Pravilu 201 Federalnih pravila o dokazima.
+25. Pored toga što je bio angažovan od strane stečajnog suda prema §156(c) za obaveštavanje, Kroll je bio angažovan kao Administrativni savetnik za obavljanje usluga stečajne administracije prema svojim ugovorima o angažovanju i nalogu Suda o angažovanju. Ove dužnosti prema poveriocima (pribavljanje saglasnosti/glasanje/tabeliranje i rukovanje komunikacijom sa podnosiocima potraživanja) podržavaju administrativne
+    obaveze koje se navode u ovom dokumentu.
+
+D. Iskustvo Tužioca
+
+26. Tužilac je podneo svoje potraživanje kao klijent koristeći FTX Portal i, kada je to zatraženo, podneo stečajni Obrazac 410 putem Krollovog EPOC-a.
+27. Primio je Krollovo obaveštenje o povredi podataka koje potvrđuje izloženost njegovog imena, adrese, e-pošte i stanja na računu i upozorava na fišing usmeren na kripto imovinu.
+28. Nakon borbe sa blokadama portala i kašnjenjima, Tužiočev KYC je verifikovan oko 3. novembra 2023, ali se portal kasnije vratio na status „Na čekanju“, blokirajući otpremanje IRS obrasca; bezbroj e-poruka upućenih Krollu ostalo je nerešeno.
+29. Nakon povrede podataka, Tužilac je bio žrtva fišinga: 1,9 ETH je ispražnjeno nekoliko minuta nakon što je stiglo u njegov vrući novčanik (dolazak u 12:43; odlazak u 12:49 na adresu napadača).
+30. Tužilac ima prijavljeno potraživanje prema FTX-u u iznosu od 87.487,93 $ i sada se suočava sa gubitkom dela ili celokupne vrednosti isplate jer ne može da ispuni preduslove plana zbog kvarova na portalu i neuspeha u obaveštavanju.
+31. Tužilac je pretrpeo konkretne štete uključujući: (a) stvarnu zloupotrebu — krađu 1,9 ETH u roku od nekoliko minuta od dolaska u njegov novčanik 3. jula 2025; (b) štetu zbog vremenske vrednosti i isplate usled blokirane verifikacije/podnošenja poreskog obrasca; (c) troškove ublažavanja iz sopstvenog džepa; (d) gubitak privatnosti/kontrole nad LPI; i (e) značajan rizik od buduće zloupotrebe s obzirom na obrasce ciljanja vlasnika kriptovaluta dokumentovane u ovom dokumentu.
+    E. Sistematska zloupotreba procurelih podataka podnosilaca potraživanja
+32. Predvidljivost nije apstrakcija: istražitelji su pratili 5,6 miliona dolara u prevarama koje su iskorišćavale podatke o potraživanjima FTX-a, uključujući prodaju skupova podataka o podnosiocima potraživanja na dark webu i obrasce promene e-pošte/zaobilaženja 2FA — upravo štete koje su sudovi nastojali da spreče zapečaćenjem LPI kripto poverilaca. Krollove suprotne poruke da nijedan osetljiv LPI nije bio u opasnosti dovele su potrošače u zabludu o potrebi da svaku e-poruku od „Krolla“ tretiraju kao sumnjivu i da zahtevaju rezervnu opciju putem pošte.
+
+33. Nezavisni obaveštajni podaci o pretnjama potvrđuju da su podaci o podnosiocima potraživanja FTX-a aktivno korišćeni kao oružje protiv poverilaca i ugovornih strana. U periodu jul-novembar 2024, istražitelji su dokumentovali najmanje 5,6 miliona dolara u prevarama vezanim za trgovinu potraživanjima FTX-a, gde je akter (ili grupa) lažno predstavljao vlasnike potraživanja koristeći selfije izmenjene veštačkom inteligencijom, nove ProtonMail naloge i falsifikovane identifikacione dokumente.
+34. Taktika aktera uključivala je: (a) nedavno kreirane ProtonMail adrese koje su zamenjivale originalnu e-poštu podnosioca potraživanja; (b) brz unos 2FA kodova, što sugeriše preuzimanje naloga; i (c) pranje novca preko depozitnih adresa na Gate.io, CoinEx i Binance. Ovi obrasci su u skladu sa kompromitovanjem kredencijala putem fišinga nakon incidenta sa Krollom.
+35. Isto istraživanje pokazuje da su podaci o potraživanjima FTX-a oglašavani na forumima na dark webu, uključujući imena, telefone, e-poštu, detalje o novčanicima/transakcijama i druge podatke vezane za potraživanja — tačno polja za koja je Kroll priznao da su kompromitovana (imena, e-pošta, brojevi telefona, poštanske adrese, identifikatori i stanja računa, a u nekim slučajevima i datumi rođenja).
+36. Istražitelji su takođe primetili promene e-pošte na ProtonMail naloge kreirane nakon gašenja za potraživanja koja su prvobitno otvorena sa različitim e-adresama, što ukazuje na preuzimanje i lažno predstavljanje naloga podnosilaca potraživanja.
+37. Izveštaj dokumentuje putanje na blokčejnu od novčanika lažnih predstavnika do depozitnih adresa na CoinEx-u i identifikuje posrednički novčanik povezan sa automatizovanim transakcionim aktivnostima; navodi interakcije sa američkim menjačnicama (Coinbase i Kraken) koje se mogu pozvati sudskim nalogom radi KYC. Ovo dokazuje kohezivan, ponovljiv obrazac prevare koji iskorišćava LPI podnosilaca potraživanja i slabosti u radnom procesu.
+38. Izveštaj dalje navodi grešku „Orbeon Forms – Page Not Found“ koja se pojavila tokom detaljnog pregleda FTX Portala — što je u skladu sa krhkim radnim procesom za podnosioce potraživanja i stanjima grešaka koje loši akteri mogu imitirati, pojačavajući konfuziju u okruženju sa visokim rizikom od fišinga.
+    F. Lažna predstavljanja i propusti nakon povrede podataka
+
+39. Kroll je javno i u komunikaciji sa podnosiocima potraživanja umanjivao obim povrede podataka — navodeći u početku da nijedan osetljiv LPI nije kompromitovan. U drugim stečajnim masama kojima je upravljao (npr. BlockFi), Kroll je kasnije otkrio da su datumi rođenja sadržani u „nestrukturiranim podacima“, što je u suprotnosti sa njegovim početnim izjavama. Kroll je takođe rekao podnosiocima potraživanja FTX-a da mogu nastaviti da komuniciraju putem radnih procesa zasnovanih na e-pošti i nije upozorio da loši akteri lažno predstavljaju Kroll i menjaju e-adrese podnosilaca potraživanja na novokreirane ProtonMail naloge kako bi porazili 2FA — obrasci potvrđeni nezavisnim obaveštajnim podacima o pretnjama. Ove izjave i propusti bili su materijalni, usmereni na potrošače i obmanjujući, i naveli su razumne podnosioce potraživanja da potcene rizik, nastave da koriste kanale isključivo putem e-pošte i odlože jače mere sanacije, doprinoseći gubicima usled fišinga, štetama zbog vremenske vrednosti i propuštenim rokovima koji su rezultirali brisanjem potraživanja.
+    NAVOĐENJA O KOLEKTIVNOJ TUŽBI
+
+40. Globalna klasa kripto-poverilaca: Sva lica širom sveta čiji su LPI ili podaci o potraživanju dostavljeni Krollu za stečajne postupke FTX, BlockFi ili Genesis bili pristupljeni, izneti ili razumno ugroženi u incidentu sa Krollom u avgustu 2023. Članstvo u klasi je utvrdivo iz Krollovih lista za obaveštavanje, EPOC evidencije i registara potraživanja stečajnih masa koji identifikuju pojedince čijim podacima je Kroll priznao da je pristupljeno ili su bili razumno ugroženi u incidentu.
+41. Potklase po stečajnoj masi: (a) FTX potklasa; (b) BlockFi potklasa; i (c) Genesis potklasa.
+
+Tužilac će dodati imenovane predstavnike za BlockFi i Genesis potklase na ili pre sertifikacije klase. 42. Potklase po vrsti štete (u svim stečajnim masama): (i) potklasa za fišing/gubitak kriptovaluta; (ii) potklasa za portal/verifikaciju/poreske obrasce (gubitak zbog brisanja, gubitak zbog vremenske vrednosti i administrativna šteta);
+(iii) potklasa za standardnu štetu od povrede podataka (narušavanje privatnosti, troškovi ublažavanja). 43. Brojnost, zajedništvo, tipičnost i adekvatnost su zadovoljeni: zajednička pitanja uključuju da li je Kroll imao i prekršio dužnosti bezbednosti podataka, adekvatnosti obaveštenja i administracije procesa potraživanja; da li je obaveštavanje isključivo putem e-pošte bilo razumno nakon povrede podataka; i da li je opravdana privremena pravna zaštita.
+MERODAVNO PRAVO
+
+44. Standardi koji regulišu ponašanje podležu zakonu Njujorka (Kroll ima sedište i delovao je iz Njujorka), ili alternativno zakonu Teksasa za stanovnike i štete u Teksasu. Potraživanja zavise od dužnosti/radnji zajedničkih svim članovima klase. Pitanja arbitrabilnosti podležu FAA; javna politika Njujorka zabranjuje ugovorno oslobađanje od grubog nemara.
+    OSNOVI TUŽBE
+    TAČKA I
+    Nemar (pravo Njujorka; alternativno pravo Teksasa)
+
+45. Kroll je dugovao Tužiocu i Klasama (FTX, BlockFi i Genesis) dužnost da postupa sa razumnom pažnjom prilikom prikupljanja, čuvanja, prenosa i administriranja LPI i podataka o potraživanjima podnosilaca; da dizajnira, upravlja i podržava funkcionalan radni proces za verifikaciju/poreske obrasce; i — posebno nakon incidenta od 19. avgusta 2023. — da daje obaveštenja razumno proračunata, pod svim okolnostima, da obavesti podnosioce potraživanja o rokovima i koracima koji utiču na njihova prava i da ublaži predvidljive rizike od fišinga i isporučivosti.
+46. Te dužnosti su proizašle iz (a) Krollovih uloga kao sudski imenovanog agenta za obaveštavanje/potraživanja i Administrativnog savetnika; (b) sudskih naloga kojima se zapečaćuju LPI kripto-poverilaca zbog poznatih rizika od fišinga i fizičke bezbednosti; (c) Krollovog sopstvenog znanja i upozorenja da će izložene e-adrese podnosilaca potraživanja biti ciljane za fišing; i (d) Krollove kontrole nad komunikacijom sa podnosiocima potraživanja i prijemom putem EPOC-a; u meri u kojoj je entitet koji nije Kroll kontrolisao statusne oznake KYC i uslovljavanje poreskih obrazaca unutar FTX Portala, Tužilac podnosi te navode alternativno protiv NN Tuženih koji će biti zamenjeni kada budu identifikovani. Ove dužnosti su nezavisne od bilo kog ugovora i priznate su prema pravu
+    Njujorka i Teksasa gde ponašanje strane stvara ili povećava predvidljiv rizik od krađe identiteta/imovine
+
+poznatoj, ograničenoj klasi (kripto podnosioci potraživanja sa zapečaćenim LPI), i gde su izbori obaveštenja i procesa nakon povrede podataka regulisani principima pravičnog suđenja (npr. Mullane; Jones v. Flowers) i sudskim nalozima o privatnosti/obaveštavanju u stečajnom postupku. 47. Kroll je prekršio svoje dužnosti, između ostalog: (i) dozvoljavanjem kompromitovanja cloud repozitorijuma koji sadrže podatke podnosilaca potraživanja omogućenog SIM-zamenom; (ii) neuspehom da blagovremeno i u potpunosti identifikuje sve pogođene skladišta podataka; (iii) istrajavanjem — nakon povrede podataka — na obaveštavanju isključivo putem e-pošte za komunikacije koje utiču na prava, iako mnogi podnosioci potraživanja nisu mogli da razlikuju legitimne Kroll e-poruke od fišinga i iako je Kroll imao sposobnost i presedan da šalje prvoklasnu poštu; (iv) dozvoljavanjem radnog procesa za isplatu u kojem je otpremanje W-9/W-8BEN bilo blokirano osim ako KYC nije pokazivao „Verifikovan“ na FTX Portalu, dok nije obezbedio ručni/alternativni put za podnošenje putem Krollovog EPOC-a ili poštom/e-poštom; (v) neuspehom da obezbedi bilo kakav ručni/alternativni put za podnošenje ili poslate potvrde za promene statusa; (vi) pružanjem kružne, odložene ili neefikasne podrške koja je produžila i pogoršala štetu; (vii) neuspehom, nakon povrede podataka, da implementira pooštravanje kontrole promena (poslat kod na staru adresu za bilo koju promenu e-pošte/telefona; prinudni periodi mirovanja; ručni pregled promena na ProtonMail naloge kreirane nakon novembra 2022) uprkos dokazima o obrascima preuzimanja e-pošte protiv podnosilaca potraživanja; i (viii) neuspehom da primeni nadzor dark weba i uklanjanje lažnih sajtova ključnih za ključne reči FTX/Kroll potraživanja nakon što su ponude skupova podataka podnosilaca potraživanja primećene na internetu. 48. Rizici koje je Kroll stvorio i nije uspeo da ublaži bili su predvidljivi: federalni sudovi u kripto slučajevima su zapečatili LPI klijenata kako bi sprečili fišing i „wrench“ napade; federalne agencije za sprovođenje zakona i bezbednosne smernice upozoravaju vlasnike digitalne imovine da čuvaju identifikacione informacije privatnim; i sam Kroll je rekao podnosiocima potraživanja da će napadači slati uverljive e-poruke kako bi preuzeli naloge i novčanike. Pod ovim okolnostima, isključivo e-pošta za korake i rokove ključne za prava nije bila
+razumna.
+
+49. Krollove radnje i propusti bili su direktan i neposredan uzrok šteta Tužioca i članova klase. Da nije bilo Krollovih bezbednosnih propusta, obaveštavanja isključivo putem e-pošte, odbijanja da se pošalje poštansko obaveštenje za rokove iz 130. Omnibus prigovora i rok za poreske obrasce, i pokvarenog, uslovljenog portala, Tužilac i mnogi članovi klase bi blagovremeno započeli i završili verifikaciju i podneli poreske obrasce; ne bi im bila izbrisana potraživanja ili stavljena „na čekanje“ čime bi se odložile isplate po planu; i izbegli bi gubitke usled fišinga i troškove ublažavanja.
+50. Tužilac i Klase su pretrpeli štete uključujući, bez ograničenja: (a) gubitke usled fišinga/gubitka kriptovaluta (za Tužioca 1,9 ETH ispražnjeno nekoliko minuta nakon prijema); (b) štete zbog vremenske vrednosti usled kašnjenja isplata uzrokovanih obaveštavanjem isključivo putem e-pošte i nedostacima portala; (c) brisanje/oduzimanje potraživanja vezano za propuštene rokove za verifikaciju/poreske obrasce; (d) troškove iz sopstvenog džepa (nadzor, ojačavanje uređaja/novčanika, pribavljanje dokumenata) i izgubljeno vreme; i (e) smanjenu privatnost i tekuću krađu identiteta i imovine.
+51. Tužilac i Klase traže naknadu stvarne i posledične štete u iznosu koji će biti dokazan na suđenju, zajedno sa zateznom kamatom pre i posle presude.
+    TAČKA II
+    Teksaški zakon o obmanjujućoj trgovačkoj praksi — Zakon o zaštiti potrošača (Tex. Bus. & Com. Code § 17.41 et seq.)
+52. Tužilac je potrošač prema Tex. Bus. & Com. Code §17.45(4) jer je tražio i koristio usluge — Krollove usluge administracije potraživanja i usluge namenjene poveriocima kupljene u korist Tužioca od strane FTX Dužnika/FTX Recovery Trust — i te usluge su pružene Tužiocu kako bi mu omogućile da ostvari i primi isplate po svom potraživanju.
+53. Kroll se bavio obmanjujućim radnjama, uključujući: (1) predstavljanje da usluge imaju karakteristike/koristi koje nisu imale — naime, da nijedan osetljiv LPI (npr. puno ime, poštanska adresa, datum rođenja, detalji o novčaniku/transakcijama) nije oduzet i da su procesi putem e-pošte bezbedni nakon povrede podataka;
+    (2) neotkrivanje informacija poznatih u vreme transakcija (da su osetljivi LPI bili u
+
+„nestrukturiranim podacima“; da su lažno predstavljanje/preuzimanje promenom e-pošte bili aktivni) kako bi naveo podnosioce potraživanja da nastave sa radnim procesom isključivo putem e-pošte; i (3) predstavljanje prava/obaveza u okviru procesa potraživanja koje nisu imali — implicirajući da je samo obaveštenje putem e-pošte bilo razumno i dovoljno za rokove ključne za prava. 54. U jeku poznatog bezbednosnog incidenta i aktivne fišing kampanje, istrajavanje na obaveštavanju isključivo putem e-pošte za rokove ključne za prava i izostavljanje poštanske rezervne opcije i ručnog kanala za podnošenje poreskih obrazaca bio je nesavestan postupak koji je grubo iskoristio nedostatak znanja i nemogućnost podnosilaca potraživanja da se zaštite. 55. Krollove povrede DTPA bile su uzrok koji je doveo do štete Tužioca, uključujući (i) krađu 1,9 ETH nakon fišinga, (ii) štete zbog vremenske vrednosti/isplate usled blokirane verifikacije i podnošenja poreskog obrasca, i (iii) troškove ublažavanja i gubitak privatnosti/kontrole nad LPI. 56. Kroll je postupao svesno, a u nekim aspektima i namerno: znao je iz sopstvenih istraga u drugim stečajnim masama (npr. BlockFi) da osetljivi LPI postoje u „nestrukturiranim podacima“, a ipak je podnosiocima potraživanja govorio drugačije i nije prilagodio obaveštenja i radne procese u skladu s tim. 57. Tužilac traži naknadu ekonomske štete, advokatske troškove, troškove postupka i trostruku naknadu štete za svesne/namerne povrede prema teksaškom DTPA. 58. Tužilac je poslao ili istovremeno šalje obaveštenje pre pokretanja spora. U meri u kojoj obaveštenje nije bilo izvodljivo zbog neposredne zastarelosti i potrebe za privremenom pravnom zaštitom, Tužilac traži od Suda da odloži postupak po DTPA tužbi za 60 dana od dana uručenja kako bi se omogućili razgovori o ispravci kako je predviđeno zakonom.
+TAČKA III
+Nepoštene i obmanjujuće radnje prema zakonu države Njujork (alternativno) 59. Kroll se bavio obmanjujućim radnjama i praksama usmerenim na potrošače, uključujući slanje obmanjujućih javnih obaveštenja o predmetu i komunikacije sa podnosiocima potraživanja, umanjujući značaj povrede podataka (navodeći da
+
+nema osetljivih LPI), neotkrivajući materijalne činjenice (LPI prisutni u datotekama i u „nestrukturiranim podacima“; aktivno lažno predstavljanje), i podstičući nastavak komunikacije isključivo putem e-pošte u okruženju aktivnog fišinga. Ove radnje su bile obmanjujuće na materijalan način i nanele su štetu Tužiocu. Tužilac traži naknadu stvarne štete, zakonsku odštetu, razumne advokatske troškove i privremenu pravnu zaštitu prema Opštem poslovnom zakonu Njujorka §§ 349(h) i 350-e.
+TAČKA IV
+Grubi nemar
+
+60. Krollovo ponašanje bilo je više od običnog nemara. Znajući da su LPI podnosilaca potraživanja bili izloženi, i znajući da su podnosioci potraživanja aktivno bili žrtve fišinga, Kroll je svesno istrajavao na porukama isključivo putem e-pošte, sa mnogo linkova, sklonim lažnom predstavljanju za rokove koji utiču na prava; odbio je da pređe na poštansku dostavu u velikom obimu iako je imao mogućnost i koristio je poštu za druge ključne komunikacije; i nastavio je da uslovljava podnošenje poreskih obrazaca nepouzdanim portalom za potraživanja koji je više puta prebacivao korisnike između statusa „Verifikovan“ i „Na čekanju“ bez objašnjenja — čak i nakon što su obaveštajni podaci trećih strana dokumentovali tekuće lažno predstavljanje, preuzimanje promenom e-pošte i rute pranja novca koristeći podatke podnosilaca potraživanja.
+61. Krollov neuspeh da primeni očigledne mere zaštite — prvoklasna pošta za obaveštenja ključna za prava, poslate potvrde o promenama statusa, ručni neuslovljeni put za poreske obrasce, pooštravanje kontrole promena (poslati kodovi na postojeću adresu; periodi mirovanja; ručni pregled prelaska na nedavno kreirane ProtonMail naloge), i nadzor dark weba — bio je ekstremno odstupanje od uobičajene pažnje suočen sa velikom verovatnoćom ozbiljne štete populaciji čiji su LPI bili zapečaćeni upravo da bi se izbegli fišing i fizičko ciljanje.
+62. Krollovo grubo nemarno ponašanje bilo je značajan faktor u prouzrokovanju šteta Tužioca i Klasa i podržava dosuđivanje kaznene odštete radi kažnjavanja i odvraćanja od sličnog
+    nedoličnog ponašanja.
+
+63. Tužilac i Klase traže kaznenu odštetu u iznosu dovoljnom da odrazi prekorljivost Krollovog ponašanja i da odvrati od budućih povreda.
+    TAČKA V
+    Kršenje prećutnog ugovora (Privatnost i administracija potraživanja)
+
+64. Traženjem i prihvatanjem LPI i prijava potraživanja Tužioca i članova klase i zahtevanjem da koriste FTX Portal (KYC/pregled) i Krollov EPOC (podnošenje potraživanja) kako bi učestvovali u stečajnom procesu potraživanja, Kroll je sklopio prećutne ugovore da (a) zaštiti te informacije razumnom bezbednošću, (b) administrira korake verifikacije i poreskih obrazaca sa razumnom pažnjom, i (c) obezbedi kanale razumno dizajnirane da osiguraju da podnosioci potraživanja mogu da završe korake koji utiču na prava.
+65. Tužilac i članovi klase su ispunili svoje obaveze dostavljanjem tačnih informacija i praćenjem Krollovih uputstava. Razumno su očekivali da će Kroll zaštititi njihove podatke i obezbediti funkcionalan, bezbedan proces za završetak verifikacije i otpremanje poreskih obrazaca.
+66. Kroll je prekršio ova prećutna obećanja dozvoljavanjem neovlašćenog pristupa podacima podnosilaca potraživanja; nastavljanjem korišćenja obaveštenja isključivo putem e-pošte u poznatom fišing okruženju; istrajavanjem na neispravnom, uslovljenom radnom procesu bez alternativnog puta; i neuspehom da obezbedi ručnu, neuslovljenu opciju podnošenja ili poslate potvrde za promene statusa koje utiču na prava.
+67. Kao direktan i neposredan rezultat, Tužilac i članovi klase su pretrpeli gore opisane štete, uključujući gubitak usled fišinga, štete zbog vremenske vrednosti i isplate, i troškove iz sopstvenog džepa.
+68. Tužilac i Klase traže naknadu štete, restituciju i svu drugu odgovarajuću pravnu zaštitu za Krollovo kršenje prećutnog ugovora.
+    TAČKA VI
+    Nemarno preduzimanje poslova (Restatement (Second) of Torts § 324A)
+
+69. Kroll je preduzeo da pruži usluge za koje je znao da su neophodne za zaštitu Tužioca i Klasa — naime, zaštitu LPI podnosilaca potraživanja i administriranje radnog procesa verifikacije/poreskih obrazaca i obaveštenja koja utiču na prava.
+70. Kroll je izvršio to preduzimanje nemarno koristeći obaveštenja isključivo putem e-pošte nakon povrede podataka; odbijajući da pošalje poštansko obaveštenje za rokove iz 130. Omnibus prigovora i rok za poreske obrasce; uslovljavajući podnošenje poreskih obrazaca nepouzdanim, statusno uslovljenim radnim procesom; i neuspehom da obezbedi alternativni put ili poslate potvrde.
+71. Krollovo nemarno izvršenje povećalo je rizik od štete za Tužioca i članove klase (propuštena ili ignorisana obaveštenja, blokade zbog promene statusa, fišing) i bio je značajan faktor u nastalim gubicima.
+72. Tužilac i mnogi članovi klase su se oslonili na Krollovo preduzimanje — koristeći FTX Portal i Krollovu komunikaciju sa podnosiocima potraživanja/EPOC prema uputstvima i odustajući od drugih koraka jer je Kroll bio isključivi kanal za verifikaciju i administraciju potraživanja.
+73. Tužilac i Klase imaju pravo na naknadu štete neposredno prouzrokovane Krollovim nemarnim preduzimanjem.
+    TAČKA VII
+    Nemarno obaveštavanje i obrada potraživanja nakon povrede podataka
+
+74. Nakon incidenta od 19. avgusta 2023, Kroll je imao pojačanu dužnost da ublaži predvidljive štete i da obezbedi obaveštenja i prilagođavanja procesa razumno proračunata da dopru do podnosilaca potraživanja i omoguće blagovremeno ispunjavanje koraka koji utiču na prava.
+75. Kroll je prekršio tu dužnost nastavljanjem oslanjanja na obaveštenja isključivo putem e-pošte — uprkos rasprostranjenom fišingu i filtriranju spama usmerenom na e-poruke koje liče na Krollove — i neuspehom da pređe na poštansku dostavu za najvažnije komunikacije, uključujući rokove iz 130. Omnibus prigovora FTX-a
+    (da se započne do 1. marta 2025. i završi do 1. juna 2025.) i rok za poreske
+
+obrasce. Potvrđeni plan nije sadržao fiksne datume u tekstu plana; stoga je Krollov izbor kanala učinio ta obaveštenja odlučujućim za ishod. Mnogi razumni podnosioci potraživanja nisu otvarali Kroll e-poruke jer im se to činilo kao „ruski rulet“ tokom aktivnih fišing kampanja; mnoga obaveštenja su završila u junk/spam folderima i ostala neviđena. 76. Nezavisno od toga, FTX je upravljao portalom koji je blokirao podnošenje W-9/W-8BEN obrazaca osim ako nije „KYC Verifikovan“, a ipak je sistem greškom vraćao verifikovane korisnike na status „Na čekanju/Neverifikovan“, bez ručnog premošćavanja, bez poslate potvrde o promenama statusa i bez alternativnog puta za podnošenje — garantujući sprečivu neusklađenost. 77. Krollova komunikacija sa podrškom je pogoršala ove propuste — izdavanjem šablonskih poruka „pokušajte ponovo“ i „popravljeno“, preusmeravanjem podnosilaca potraživanja na druge inbokse, i ne pružanjem trajnog rešenja — dok su se rokovi za brisanje i poreske obrasce približavali. 78. Kroll je lažno predstavljao da osetljivi LPI nisu bili ugroženi, a kasnije je priznao datume rođenja u „nestrukturiranim podacima“ u drugoj kripto stečajnoj masi (BlockFi), čime je smanjio oprez i povećao uspeh fišinga. 79. Kao direktan i neposredan rezultat Krollovog nemarnog obaveštavanja i obrade potraživanja, Tužilac i članovi klase su propustili ili nisu bili u mogućnosti da završe zahteve za verifikaciju i poreske obrasce koje bi inače ispunili, pretrpeli su gubitke usled fišinga i pretrpeli štete zbog vremenske vrednosti i administrativne štete. 80. Tužilac i Klase traže naknadu štete za ove povrede i deklaraciju da su Krollove prakse obaveštavanja/obrade nakon povrede podataka bile nerazumne i nezakonite pod datim okolnostima. 81. Tužilac i Klase dalje traže privremenu pravnu zaštitu koja zahteva višekanalno obaveštavanje (e-pošta i prvoklasna pošta sa otkucanim URL-ovima/jedinstvenim kodovima), poslate potvrde za svaku promenu statusa koja utiče na prava, definisane periode za ispravku pre brisanja, i ručni/alternativni
+kanal za verifikaciju i podnošenje poreskih obrazaca. Kroll nastavlja da administrira komunikaciju sa poveriocima
+
+i evidenciju koja se odnosi na ove stečajne mase, tako da rizik od buduće štete traje bez sudski naloženih mera zaštite.
+TAČKA VIII
+Davanje netačnih informacija iz nemara (izjave o procesu nakon povrede podataka)
+
+82. Kroll je, u komunikaciji nakon povrede podataka, predstavljao da su greške u verifikaciji „popravljene“, da podnosioci potraživanja treba da „pokušaju ponovo“, ili da je status „Verifikovan“, dok je sistem nastavljao da se vraća na status Na čekanju/Neverifikovan i blokira podnošenje poreskih obrazaca. Krollova uloga kao sudski imenovanog agenta za potraživanja/obaveštavanje i Administrativnog savetnika stavila ga je u poziciju jedinstvenog i poverljivog pristupa informacijama o poveriocima i kontroli procesa, stvarajući poseban odnos dovoljan da podrži odgovornost za davanje netačnih informacija iz nemara.
+83. Kroll je dostavio ove informacije u toku svojih profesionalnih administrativnih dužnosti i nije postupao sa razumnom pažnjom. Tužilac i članovi klase su se opravdano oslonili nastavljajući sa istim pokvarenim radnim procesom i odustajući od alternativnih načina eskalacije, što je prouzrokovalo propuštene rokove, gubitke zbog vremenske vrednosti i brisanje.
+84. Tužilac traži naknadu štete neposredno prouzrokovane ovim oslanjanjem.
+
+TAČKA IX
+Neosnovano bogaćenje (alternativno)
+
+85. Kroll je primio značajnu naknadu za obavljanje poslova agenta za obaveštavanje/potraživanja i Administrativnog savetnika u svim kripto stečajnim masama, dok je troškove i rizike svoje manjkave bezbednosti i administracije nakon povrede podataka prebacio na podnosioce potraživanja.
+86. Bilo bi nepravično da Kroll zadrži te koristi bez nadoknade gubitaka koje je prouzrokovao i bez finansiranja korektivnih mera (uključujući nadzor, poboljšanja bezbednosti, ponovno obaveštavanje i ponovno otvorene periode za podnošenje).
+
+87. Tužilac podnosi tužbu za neosnovano bogaćenje alternativno svojim ugovornim i deliktnim tužbama u meri u kojoj Sud utvrdi da nijedan izvršni ugovor ne reguliše Krollove dužnosti prema podnosiocima potraživanja.
+88. Tužilac i Klase traže restituciju i povraćaj nezakonito stečene dobiti i umanjenje naknada srazmerno prouzrokovanim štetama.
+    TAČKA X
+    Deklaratorna i privremena pravna zaštita (28 U.S.C. §§ 2201-02)
+
+89. Postoji stvaran, sudski rešiv spor u vezi sa Krollovim tekućim obavezama da obezbedi podatke podnosilaca potraživanja, da pruži adekvatno obaveštenje o koracima koji utiču na prava, i da upravlja funkcionalnim procesom verifikacije/poreskih obrazaca koji ne blokira proizvoljno usklađene podnosioce potraživanja.
+90. Tužilac traži deklaraciju da su Krollovo obaveštavanje isključivo putem e-pošte nakon povrede podataka i uslovljeni portal bili nerazumni pod datim okolnostima i da Kroll mora da primeni procese razumno proračunate da dopru do i zaštite podnosioce potraživanja u budućnosti.
+91. Tužilac takođe traži trajnu zabranu koja zahteva od Krolla da, u periodu od najmanje tri (3) godine, implementira: (a) višekanalno obaveštavanje (e-pošta i prvoklasna pošta) za svaki rok koji utiče na prava, sa otkucanim URL-ovima/jedinstvenim pristupnim kodovima i bez linkova na koje se može kliknuti; (b) poslate potvrde o bilo kojoj promeni statusa verifikacije i minimalni period od 30 dana za ispravku pre brisanja ili oduzimanja; (c) pooštravanje kontrole promena: poslati jednokratni kodovi na postojeću poštansku adresu pre nego što bilo koja promena e-pošte/telefona stupi na snagu; (d) period mirovanja od 14 dana za promene kontakt metoda osim ako nisu verifikovane poslatim kodom; (e) ručni pregled prelaska na nedavno kreirane ProtonMail ili druge domene visokog rizika; (f) ručni/alternativni metod za završetak verifikacije i podnošenje W-9/W-8BEN koji nije uslovljen oznakama na portalu, sa objavljenim SLA za eskalaciju (eskalacija u roku od 5 radnih dana; rešenje u roku od 10 radnih dana); (g) nepromenljive revizorske tragove promena statusa i mogućnost ljudskog pregleda i premošćavanja; (h) industrijski standardne kontrole isporučivosti i zaštite od lažnog predstavljanja (namenski domeni,
+    DMARC/SPF/DKIM primena, disciplina praćenja linkova, uklanjanje lažnih domena ključnih za
+
+FTX/Kroll/claims ključne reči); (i) nezavisne godišnje revizije bezbednosti, isporučivosti i radnog procesa portala sa izveštajima dostupnim Sudu; i (j) finansiran nadzor kreditnih/ličnih podataka i kripto-računa i program za nadoknadu gubitaka usled fišinga za pogođene podnosioce potraživanja. 92. Zatražena pravna zaštita će sprečiti buduće štete koje sama naknada štete ne može da sanira, osiguraće pravičan pristup isplatama i uskladiće Krollove prakse sa predvidljivim rizicima jedinstvenim za kripto poverioce. 93. Tužilac i Klase nemaju adekvatan pravni lek za buduće štete koje se rešavaju zatraženim zabranama; novčana naknada ne može da osigura blagovremenu, bezbednu i efikasnu administraciju tekućih obaveza podnosilaca potraživanja. 94. Ravnoteža pravičnosti i javni interes idu u prilog privremenoj pravnoj zaštiti jer ona štiti prava hiljada podnosilaca potraživanja da budu saslušani i da primaju isplate bez neopravdanog rizika od prevare ili brisanja uzrokovanog neispravnim procesima. 95. Tužilac i Klase takođe traže svoje razumne advokatske troškove i troškove postupka u meri u kojoj je to dozvoljeno zakonom, uključujući prema doktrinama zajedničkog fonda/zajedničke koristi i pravičnim ovlašćenjima Suda.
+ARBITRAŽA/ODRICANJE OD KOLEKTIVNE TUŽBE 96. FTX Portal nije Krollov „Sajt“ kako je definisano u Krollovim Uslovima korišćenja. Tužilac nije pristao na bilo kakve Krollove Uslove na FTX Portalu. FTX Portal je sadržao samo saglasnost za obradu podataka od strane FTX-a; nije prikazivao nikakve Krollove Uslove, nikakvu arbitražu i nikakvo odricanje od kolektivne tužbe. U meri u kojoj Kroll ukazuje na poseban pristanak klikom na svom EPOC-u ili Kroll Sajtu, klauzula je uska i izborna, primenjujući se samo na sporove „koji proizilaze iz ili se odnose na ove Uslove ili naš Sajt“, i ne postoji klauzula o delegiranju — tako da ovaj Sud odlučuje o arbitrabilnosti. Tužiočevi zahtevi proizilaze iz Krollovih sudski imenovanih administrativnih i bezbednosnih dužnosti (povreda M365; kanali obaveštavanja nakon povrede; nedostatak neuslovljenog puta za poreske obrasce), koje postoje nezavisno od bilo kakvog korišćenja veb sajta i izvan su bilo koje
+
+klauzule ograničene na sajt. Alternativno, nametanje arbitraže/odricanja od kolektivne tužbe kao uslova za podnošenje federalnog Obrasca 410 je proceduralno nesavesno; i prema javnoj politici Njujorka, grubi nemar se ne može ugovorno isključiti. Jezik Uslova o „individualnoj osnovi“ je ograničen na arbitražu; ne postoji samostalno odricanje od kolektivne tužbe pred sudom. Izuzetak za Krollov bezbednosni incident u Planu potvrđuje da su ovo nezavisne deliktne tužbe trećih strana za koje se predviđa da će se voditi ‘u drugom postupku’, što podriva bilo koju teoriju o nesignataru.
+TUŽBENI ZAHTEV
+S TOGA, Tužilac, lično i u ime ostalih članova Klasa predloženih u ovoj Tužbi, s poštovanjem traži da Sud donese presudu u njihovu korist i protiv Tuženog, kako sledi:
+A. Za Nalog kojim se ova tužba potvrđuje kao kolektivna tužba i imenuju Tužilac i njegov punomoćnik da predstavljaju Klase;
+B. Za pravičnu pravnu zaštitu koja zahteva restituciju i povraćaj prihoda nezakonito zadržanih zbog nedoličnog ponašanja Tuženog;
+C. Za dosuđivanje stvarne štete, naknade štete, zakonske odštete i zakonskih kazni, u iznosu koji će biti utvrđen, kako je dozvoljeno zakonom;
+D. Za dosuđivanje kaznene odštete, kako je dozvoljeno zakonom;
+
+E. Pravni lekovi prema teksaškom DTPA: ekonomska šteta, trostruka naknada štete za svesne/namerne povrede, i razumni i neophodni advokatski troškovi (DTPA § 17.50(d));
+F. Njujorški GBL §§ 349/350 (alternativno): zakonska odšteta i advokatski troškovi;
+
+G. Za dosuđivanje advokatskih troškova i troškova postupka, i drugih troškova, uključujući troškove veštaka;
+H. Zatezna kamata pre i posle presude na sve dosuđene iznose; i
+
+I. Svaku drugu i dalju pravnu zaštitu koju ovaj sud može smatrati pravičnom i odgovarajućom.
+
+Datum: 19. avgust 2025.
+S poštovanjem podneto,
+HALL ATTORNEYS, P.C.
+Od: /s/ Nicholas Andrew Hall
+Nicholas Andrew Hall Advokatski br. 24069863 nhall@hallattorneys.com
+P.O. Box 1370
+Edna, Texas 77957
++1 713 428 8967
+
+PUNOMOĆNIK TUŽIOCA I POTENCIJALNIH KLASA
