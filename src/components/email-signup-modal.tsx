@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { X, Mail, CheckCircle, AlertCircle, FileText } from 'lucide-react'
+import { X, CheckCircle, AlertCircle } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 interface EmailSignupModalProps {
@@ -14,6 +14,7 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
   const [email, setEmail] = useState('')
   const [acceptedTerms, setAcceptedTerms] = useState(false)
   const [acceptedMarketing, setAcceptedMarketing] = useState(true)
+  const [acceptedLegal, setAcceptedLegal] = useState(false)
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState('')
 
@@ -31,6 +32,11 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
       return
     }
 
+    if (!acceptedLegal) {
+      setError('You must acknowledge the legal disclaimer')
+      return
+    }
+
     setIsLoading(true)
 
     try {
@@ -43,6 +49,7 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
           email,
           acceptedTerms,
           acceptedMarketing,
+          acceptedLegal,
           source: 'dockets',
         }),
       })
@@ -57,6 +64,7 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
       setEmail('')
       setAcceptedTerms(false)
       setAcceptedMarketing(true)
+      setAcceptedLegal(false)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Something went wrong. Please try again.')
     } finally {
@@ -97,13 +105,9 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
 
               {/* Header */}
               <div className="mb-6">
-                <div className="flex justify-center items-center mx-auto mb-4 w-16 h-16 bg-blue-50 rounded-full dark:bg-blue-900/20">
-                  <FileText className="w-8 h-8 text-blue-600" />
-                </div>
                 <h2 className="mb-2 text-2xl font-bold text-center">Access Full Document</h2>
                 <p className="text-center text-gray-600 dark:text-gray-400">
-                  Enter your email to read the complete legal document. We promise not to spam you - 
-                  we&apos;ll only send important updates about this case.
+                  We promise not to spam you - we'll only send important updates about this case.
                 </p>
               </div>
 
@@ -124,53 +128,103 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
                   />
                 </div>
 
-                {/* Terms checkbox */}
-                <div className="flex items-start">
-                  <input
-                    type="checkbox"
-                    id="terms"
-                    checked={acceptedTerms}
-                    onChange={e => setAcceptedTerms(e.target.checked)}
-                    className="mt-1 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
-                  />
-                  <label htmlFor="terms" className="ml-2 text-sm text-gray-600 dark:text-gray-400">
-                    I agree to the{' '}
-                    <a
-                      href="https://www.ftxclaims.com/policies/terms"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-primary hover:underline"
-                    >
-                      Terms of Service
-                    </a>{' '}
-                    and{' '}
-                    <a
-                      href="https://www.ftxclaims.com/policies/privacy"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-primary hover:underline"
-                    >
-                      Privacy Policy
-                    </a>{' '}
-                    (Required)
-                  </label>
-                </div>
-
-                {/* Marketing checkbox */}
-                <div className="flex items-start">
-                  <input
-                    type="checkbox"
-                    id="marketing"
-                    checked={acceptedMarketing}
-                    onChange={e => setAcceptedMarketing(e.target.checked)}
-                    className="mt-1 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
-                  />
-                  <label
-                    htmlFor="marketing"
-                    className="ml-2 text-sm text-gray-600 dark:text-gray-400"
+                {/* Checkbox Cards */}
+                <div className="space-y-3">
+                  {/* Terms checkbox card */}
+                  <label 
+                    htmlFor="terms" 
+                    className={`block p-3 rounded-lg border-2 cursor-pointer transition-all ${
+                      acceptedTerms 
+                        ? 'border-primary bg-primary/5 dark:bg-primary/10' 
+                        : 'border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600'
+                    }`}
                   >
-                    Receive notifications about related legal proceedings and document updates
-                    (Optional)
+                    <div className="flex items-start gap-3">
+                      <input
+                        type="checkbox"
+                        id="terms"
+                        checked={acceptedTerms}
+                        onChange={e => setAcceptedTerms(e.target.checked)}
+                        className="mt-0.5 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
+                      />
+                      <div className="flex-1">
+                        <span className="text-sm font-medium text-foreground">
+                          I agree to the{' '}
+                          <a
+                            href="https://www.ftxclaims.com/policies/terms"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-primary hover:underline"
+                            onClick={e => e.stopPropagation()}
+                          >
+                            Terms of Service
+                          </a>{' '}
+                          and{' '}
+                          <a
+                            href="https://www.ftxclaims.com/policies/privacy"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-primary hover:underline"
+                            onClick={e => e.stopPropagation()}
+                          >
+                            Privacy Policy
+                          </a>
+                        </span>
+                        <div className="mt-1 text-xs text-muted-foreground">Required</div>
+                      </div>
+                    </div>
+                  </label>
+
+                  {/* Legal disclaimer checkbox card */}
+                  <label 
+                    htmlFor="legal" 
+                    className={`block p-3 rounded-lg border-2 cursor-pointer transition-all ${
+                      acceptedLegal 
+                        ? 'border-primary bg-primary/5 dark:bg-primary/10' 
+                        : 'border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600'
+                    }`}
+                  >
+                    <div className="flex items-start gap-3">
+                      <input
+                        type="checkbox"
+                        id="legal"
+                        checked={acceptedLegal}
+                        onChange={e => setAcceptedLegal(e.target.checked)}
+                        className="mt-0.5 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
+                      />
+                      <div className="flex-1">
+                        <span className="text-sm font-medium text-foreground">
+                          I acknowledge that signing up for the FTXClaims.com mailing list does not establish an attorney-client relationship or privilege
+                        </span>
+                        <div className="mt-1 text-xs text-muted-foreground">Required</div>
+                      </div>
+                    </div>
+                  </label>
+
+                  {/* Marketing checkbox card */}
+                  <label 
+                    htmlFor="marketing" 
+                    className={`block p-3 rounded-lg border-2 cursor-pointer transition-all ${
+                      acceptedMarketing 
+                        ? 'border-primary bg-primary/5 dark:bg-primary/10' 
+                        : 'border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600'
+                    }`}
+                  >
+                    <div className="flex items-start gap-3">
+                      <input
+                        type="checkbox"
+                        id="marketing"
+                        checked={acceptedMarketing}
+                        onChange={e => setAcceptedMarketing(e.target.checked)}
+                        className="mt-0.5 w-4 h-4 rounded border-gray-300 text-primary focus:ring-primary"
+                      />
+                      <div className="flex-1">
+                        <span className="text-sm font-medium text-foreground">
+                          Receive notifications about related legal proceedings and document updates
+                        </span>
+                        <div className="mt-1 text-xs text-muted-foreground">Optional</div>
+                      </div>
+                    </div>
                   </label>
                 </div>
 
@@ -186,7 +240,7 @@ export function EmailSignupModal({ isOpen, onClose, onSuccess }: EmailSignupModa
                 <button
                   type="submit"
                   disabled={isLoading}
-                  className="flex gap-2 justify-center items-center px-4 py-3 w-full font-medium text-white rounded-lg transition-colors bg-primary hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="flex gap-2 justify-center items-center px-4 py-3 w-full font-medium text-primary-foreground rounded-lg transition-colors bg-primary hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   {isLoading ? (
                     <>

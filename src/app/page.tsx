@@ -77,7 +77,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Twitter"
               >
-                <img src="/twitter.svg" alt="Twitter" className="w-4 h-4" />
+                <img src="/twitter.svg" alt="Twitter" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
                 type="button"
@@ -85,7 +85,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Reddit"
               >
-                <img src="/reddit.svg" alt="Reddit" className="w-4 h-4" />
+                <img src="/reddit.svg" alt="Reddit" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
                 type="button"
@@ -93,7 +93,7 @@ export default function LegalDocumentViewer() {
                 className="p-1.5 rounded hover:bg-background/80 text-muted-foreground hover:text-foreground"
                 aria-label="Share on Telegram"
               >
-                <img src="/telegram.svg" alt="Telegram" className="w-4 h-4" />
+                <img src="/telegram.svg" alt="Telegram" className="w-4 h-4 dark:invert dark:opacity-70" />
               </button>
               <button
                 type="button"
@@ -109,8 +109,8 @@ export default function LegalDocumentViewer() {
         </div>
       </header>
 
-      {/* Main Content Area */}
-      <div className="flex-1 flex overflow-hidden relative">
+      {/* Main Content Area - Mobile optimized */}
+      <div className="flex-1 flex overflow-hidden relative min-h-0">
         {/* Mobile overlay */}
         {sidebarOpen && (
           <div 
@@ -163,8 +163,8 @@ export default function LegalDocumentViewer() {
           </div>
         </aside>
 
-        {/* PDF Viewer Area */}
-        <div className="flex-1 flex flex-col overflow-hidden">
+        {/* PDF Viewer Area - Mobile optimized */}
+        <div className="flex-1 flex flex-col overflow-hidden min-h-0 relative">
           {!hasSignedUp && (
             <div className="bg-amber-50 text-amber-900 dark:bg-amber-900/20 dark:text-amber-100 border-b border-border p-3 flex items-start gap-2 flex-shrink-0">
               <div className="text-sm">
