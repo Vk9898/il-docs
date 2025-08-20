@@ -23,8 +23,6 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
   const [pageWidth, setPageWidth] = useState<number>(0)
   const containerRef = useRef<HTMLDivElement>(null)
   const [isMobile, setIsMobile] = useState(false)
-  const [touchStart, setTouchStart] = useState<number | null>(null)
-  const [touchEnd, setTouchEnd] = useState<number | null>(null)
 
   // Detect mobile and set initial scale
   useEffect(() => {
@@ -48,30 +46,6 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
     return () => window.removeEventListener('resize', checkMobile)
   }, [pageWidth, fitToWidth])
 
-  // Handle swipe gestures for page navigation
-  const handleTouchStart = useCallback((e: React.TouchEvent) => {
-    setTouchEnd(null)
-    setTouchStart(e.targetTouches[0].clientX)
-  }, [])
-
-  const handleTouchMove = useCallback((e: React.TouchEvent) => {
-    setTouchEnd(e.targetTouches[0].clientX)
-  }, [])
-
-  const handleTouchEnd = useCallback(() => {
-    if (!touchStart || !touchEnd) return
-    
-    const distance = touchStart - touchEnd
-    const isLeftSwipe = distance > 50
-    const isRightSwipe = distance < -50
-
-    if (isLeftSwipe && numPages && pageNumber < numPages) {
-      setPageNumber(prev => prev + 1)
-    }
-    if (isRightSwipe && pageNumber > 1) {
-      setPageNumber(prev => prev - 1)
-    }
-  }, [touchStart, touchEnd, pageNumber, numPages])
 
   useEffect(() => {
     const handleContextMenu = (e: MouseEvent) => {
@@ -219,12 +193,6 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
             </div>
           </div>
           
-          {/* Mobile swipe hint */}
-          {isMobile && (
-            <div className="text-center text-[10px] text-gray-500 dark:text-gray-400 mt-1">
-              Swipe left/right to navigate • Pinch to zoom
-            </div>
-          )}
         </div>
       </div>
 
@@ -232,9 +200,6 @@ export function PDFViewerClient({ url, isLocked, onUnlockRequest }: PDFViewerPro
       <div 
         ref={containerRef}
         className="flex-1 min-h-0 overflow-auto bg-gray-50 dark:bg-gray-950"
-        onTouchStart={handleTouchStart}
-        onTouchMove={handleTouchMove}
-        onTouchEnd={handleTouchEnd}
       >
         <div className={`pdf-container ${isLocked ? 'relative' : ''} min-h-full`}>
           <Document
