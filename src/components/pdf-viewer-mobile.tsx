@@ -17,7 +17,6 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
   const [numPages, setNumPages] = useState<number | null>(null)
   const [pageNumber, setPageNumber] = useState(1)
   const containerRef = useRef<HTMLDivElement>(null)
-  const documentRef = useRef<any>(null)
   
   // Fixed scale for mobile - no dynamic resizing
   const scale = 0.8
@@ -74,7 +73,6 @@ export function PDFViewerMobile({ url, isLocked, onUnlockRequest }: PDFViewerMob
             <Document
               file={url}
               onLoadSuccess={({ numPages }) => setNumPages(numPages)}
-              ref={documentRef}
               loading={
                 <div className="flex justify-center items-center h-96">
                   <div className="text-sm">Loading...</div>

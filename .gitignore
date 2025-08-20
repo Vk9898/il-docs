@@ -40,3 +40,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Translation scripts with API keys
+/translation/translate-final.js
+/translation/translate-*.js
+/translation/*.log
